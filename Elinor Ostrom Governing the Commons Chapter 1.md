@@ -46,3 +46,4 @@ Current Policy Prescriptions:
 * A centralized agency can transform the Hardin herder game to generate an optimally efficient equilibrium for the herders. Little consideration is given to the cost of creating and maintaining such an agency.
 	* this optimal equilibrium is based on assumptions concerning the accuracy of information, monitoring capabilities, sanctioning reliability, zero csots of administration - without valid and reliable information a cnetral agendy could make several errors - there are also implications for incomplete information
 * In Game 3 we assume that the central agency has complete information about the carrying capacity of the meadow, but incomplete information about the particular actions of the herders
+* 
