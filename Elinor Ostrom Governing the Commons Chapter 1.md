@@ -37,4 +37,8 @@ Three influential models
 	* Work on the dynamic aspects of empirical settings have begun to generate more optimistic predictions than did earlier models
 		* One of the most exciting areas in the social sciences
 		* Some of the puzzles are key to understanding how individuals jointly using a common-pool resource might be able to achieve an effective form of governing and managing their own commons
-	* Policy prescriptions have relied to a large extent on one of the three original models, but attempting to use these models as th
+	* Policy prescriptions have relied to a large extent on one of the three original models, but attempting to use these models as the basis for policy prescriptions have achieved little more than a metaphorical use of the models
+	* These three models have been frequently used metaphorically - the similarity between many individuals jointly using a resource in a natural setting and many individuals jointly producing a suboptimal result in the model has been used to convey a sense that further similarities are present
+		* the observer often wishes to invoke an image of helpless individuals caught in the process of destroying their own resources
+
+Current Policy Prescriptions:
