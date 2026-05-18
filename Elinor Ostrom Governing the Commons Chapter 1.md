@@ -10,3 +10,9 @@
 	* [[Commons simulations]]
 * Need to develop the intellectual tools to understand the capabilities and limitations of self governing institutions for regulating many types of resources
 * The book is an effort to 1) critique the foundations of policy analysis as applied to many natural resources 2) present empirical examples of successful and unsuccessful efforts govern and manage resources 3) begin the effort to develop better intellectual tools to understand the capabilities and limitations of self governing institutions for regulating many types of resources
+
+Three influential models
+* The phrase "the tragedy of the commons" took off since Garrett Hardin's challenging article in Science (1968) - symbolizing the degradation of the environment to be expected when many individuals use a scarce resource in common
+	* This thread of thinking goes back to Aristotle 
+	* The conservative dictum "everybody's property is nobody's property - wealth that is free for all is valued by noone"
+	* (this is clearly culturally dependent and not true in indigenous cultures)
