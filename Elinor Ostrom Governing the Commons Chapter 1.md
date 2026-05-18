@@ -52,4 +52,4 @@ Current Policy Prescriptions:
 	* It's also hard to know what private rights mean in the case of water and fisheries
 		* [[bioregionalism]]
 		* Even when particular rights are unitized, quantified, and salable, the resource system is still likely owned in common rather than individually
-* Commonly calls for imposition of a solution by an external actor- both centralizaton advocates and privatization advocates accept as a central tenet that institutional change must come from outside and be imposed on the individuals aff
+* Commonly calls for imposition of a solution by an external actor- both centralizaton advocates and privatization advocates accept as a central tenet that institutional change must come from outside and be imposed on the individuals affected  - despite sharing a faith in the necessity and efficacy of "the state" to change institutions so as to increase efficiency, the institutional changes they recommend could hardly be further apart
