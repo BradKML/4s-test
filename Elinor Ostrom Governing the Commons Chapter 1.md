@@ -45,4 +45,4 @@ Current Policy Prescriptions:
 * Consequence - Leviathan as "the only way". Hardin presumed that the only alternatives to the commons dilemma was either a private enterprise system or socialism. Different scholars concluded "common property resources require public control if economic efficiency is to result from their development"
 * A centralized agency can transform the Hardin herder game to generate an optimally efficient equilibrium for the herders. Little consideration is given to the cost of creating and maintaining such an agency.
 	* this optimal equilibrium is based on assumptions concerning the accuracy of information, monitoring capabilities, sanctioning reliability, zero csots of administration - without valid and reliable information a cnetral agendy could make several errors - there are also implications for incomplete information
-* In Game 3 
+* In Game 3 we assume that the central agency has complete information about the carrying capacity of the meadow, but incomplete information about the particular actions of the herders
