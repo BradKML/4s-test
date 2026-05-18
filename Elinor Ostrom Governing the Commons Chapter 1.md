@@ -48,4 +48,8 @@ Current Policy Prescriptions:
 * In Game 3 we assume that the central agency has complete information about the carrying capacity of the meadow, but incomplete information about the particular actions of the herders - the central agency consequently makes errors in imposing punishments
 * Privatization as the only way - by treating resources as common property was are locked into inexorable destruction-> how to impose private ownership when those currently using a commons were unwilling to change to a set of private rights to the commons
 * Those recommending the imposition of privatization on the herders would divide the meadow in half and assign half the meadow to one herder and half to the other herder -> then playing a game against nature - > presuming herders are motivated by profit incentive. If the location of lush growth changes dramatically from year to year, dividing the commons may impoverish both herders and lead to overgrazing in those parts where forage is temporarily inadequate.
-	* It might be possible for herders to set up an insurance scheme to share the risk of an uncertain environment - but the setup costs for a new market/insurance scheme w
+	* It might be possible for herders to set up an insurance scheme to share the risk of an uncertain environment - but the setup costs for a new market/insurance scheme would be substantial.
+	* It's also hard to know what private rights mean in the case of water and fisheries
+		* [[bioregionalism]]
+		* Even when particular rights are unitized, quantified, and salable, the resource system is still likely owned in common rather than individually
+* Commonly calls for imposition of a solution by an external actor- both centralizaton advocates and privatization advocates accept as a central tenet that institutional change must come from outside and be imposed on the individuals aff
