@@ -30,4 +30,5 @@ Three influential models
 * Olson considers it an open question whether intermediate size groups will or will not voluntarily provide collective benefits
 	* His definition of an intermediate size group depends on how noticeable each person's actions are 
 	* At the heart of each model is the free rider problem -> whenever one person cannot be excluded from the benefits the others provide, each person is motivated not to contribute to the joint effort but to free ride on the efforts of others - if everyone chooses to free ride, the collective benefit will not be produced
-	* Danger of assuming constraints are fixed for the purpose of analysis and taken on faith as being fixed 
+	* Danger of assuming constraints are fixed for the purpose of analysis and taken on faith as being fixed in empirical settings
+		* Not all users of natural resources are similar incapable of changing their constraints - as long as individuals are viewed as prisoners, policy prescriptions will address this metaphor
