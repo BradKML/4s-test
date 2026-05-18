@@ -54,3 +54,6 @@ Current Policy Prescriptions:
 		* Even when particular rights are unitized, quantified, and salable, the resource system is still likely owned in common rather than individually
 * Commonly calls for imposition of a solution by an external actor- both centralizaton advocates and privatization advocates accept as a central tenet that institutional change must come from outside and be imposed on the individuals affected  - despite sharing a faith in the necessity and efficacy of "the state" to change institutions so as to increase efficiency, the institutional changes they recommend could hardly be further apart
 * Institutions are rarely either public or private - many successful CPR institutions are "private like" or "public like" - successful means that individuals can achieve productive outcomes here. A competitive market is a public good - no market can exist for long without underlying public institutions to support it.
+
+An alternative solution
+* A fifth game where herders themselves can make a binding contract to commit themselves to a cooperative strategy they themselves will work out - to represent this arragnement within a non cooperative framework, additional moves must be overtly included in game structure - a binding contract interpreted within noncooperative game theory as one unfailingly enforced by an external actor
