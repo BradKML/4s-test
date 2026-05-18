@@ -20,4 +20,7 @@ Three influential models
 * Hardin used the grazing commons as a metaphor for the general problem of overpopulation - it has been used to describe diverse problems as the Sahelian famine, firewood crises in the Third World, the problem of acid rain, overspending, urban crime, public sector/private sector relationships, the problem of international cooperation etc
 * This model has often been formalized as a prisoner's dilemma game - this is a noncooperative game in which all players possess complete information- in these games communication is forbidden or impossible or just irrelevant
 	* In the prisoner's dilemma, the dominant strategy is the defect
-	* When both players choose t
+	* When both players choose the dominant strategy, they produce an equilibrium that is the third best result for both - neither has an incentive to change that is independent of the strategy choice of the other - however this is not a Pareto optimal outcome
+	* The paradox that individually rational strategies lead to collectively irrational outcomes challenges a fundamental faith that rational human beings can achieve rational results
+			* The Prisoner's Dilemma bears directly on fundamental issues in ethics and political philosophy 
+* The logic of collective action - developed by Mancur Olson (difficulty of getting individuals to pursue their joint w)
