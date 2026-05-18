@@ -9,3 +9,4 @@
 * Intellectual tools/models to understand the problems associated with governing and managing natural resource systems and why institutions work in some settings and not others have not been developed as of 1990
 	* [[Commons simulations]]
 * Need to develop the intellectual tools to understand the capabilities and limitations of self governing institutions for regulating many types of resources
+* The book is an effort to 1) critique the foundations of policy analysis as applied to many natural resources 2) present empirical examples of successful and unsuccessful efforts govern and manage resources 3) begin the effort to develop better intellectual tools to understand the capabilities and limitations of self governing institutions for regulating many types of resources
