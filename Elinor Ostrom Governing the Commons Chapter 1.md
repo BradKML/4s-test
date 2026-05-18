@@ -57,3 +57,5 @@ Current Policy Prescriptions:
 
 An alternative solution
 * A fifth game where herders themselves can make a binding contract to commit themselves to a cooperative strategy they themselves will work out - to represent this arragnement within a non cooperative framework, additional moves must be overtly included in game structure - a binding contract interpreted within noncooperative game theory as one unfailingly enforced by an external actor
+
+[[imag]]
