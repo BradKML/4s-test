@@ -42,3 +42,4 @@ Three influential models
 		* the observer often wishes to invoke an image of helpless individuals caught in the process of destroying their own resources
 
 Current Policy Prescriptions:
+* Consequence - Leviathan as "the only way". Hardin presumed that the only alternatives to the commons dilemma was either a private enterprise system or socialism. Different scholars concluded "common property resources require public control if economic efficiency is to result from their development"
