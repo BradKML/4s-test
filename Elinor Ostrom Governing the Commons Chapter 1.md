@@ -29,6 +29,8 @@ Three influential models
 * Olson's argument rests on the premise that one who cannot be excluded from obtaining the benefits of a collective good once the good is produced has little incentive to contribute voluntarily to the provision of that good
 * Olson considers it an open question whether intermediate size groups will or will not voluntarily provide collective benefits
 	* His definition of an intermediate size group depends on how noticeable each person's actions are 
-	* At the heart of each model is the free rider problem -> whenever one person cannot be excluded from the benefits the others provide, each person is motivated not to contribute to the joint effort but to free ride on the efforts of others - if everyone chooses to free ride, the collective benefit will not be produced
+	* ==At the heart of each model is the free rider problem -> whenever one person cannot be excluded from the benefits the others provide, each person is motivated not to contribute to the joint effort but to free ride on the efforts of others - if everyone chooses to free ride, the collective benefit will not be produced
 	* Danger of assuming constraints are fixed for the purpose of analysis and taken on faith as being fixed in empirical settings
 		* Not all users of natural resources are similar incapable of changing their constraints - as long as individuals are viewed as prisoners, policy prescriptions will address this metaphor
+* ==These three models and their many variants are diverse representations of a broader and still-evolving theory of collective action - lots more work to develop the theory into a reliable and useful foundation for policy analysis (as of 1990)
+	* Lots of progress made in from 1960 - 1990 in the last three decades by theorists and empirically oriented social scientists - sweeping conclusions of the first variants of this theory have given way to a mor
