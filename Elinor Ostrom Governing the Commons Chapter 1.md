@@ -8,4 +8,4 @@
 * Communities of individuals have relied on institutions resembling neither the state nor the market to govern some resource systems with reasonable degrees of success over long periods of time
 * Intellectual tools/models to understand the problems associated with governing and managing natural resource systems and why institutions work in some settings and not others have not been developed as of 1990
 	* [[Commons simulations]]
-* Need to devel
+* Need to develop the intellectual tools to understand the capabilities and limitations of self governing institutions for regulating many types of resources
