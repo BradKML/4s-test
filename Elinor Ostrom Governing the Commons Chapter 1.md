@@ -17,4 +17,7 @@ Three influential models
 	* The conservative dictum "everybody's property is nobody's property - wealth that is free for all is valued by noone"
 	* (this is clearly culturally dependent and not true in indigenous cultures or even prehistoric ones)
 * Standard analyses in resource economics concludes that when a number of users have access to a common-pool resource, the total of resource units withdrawn from the resource will be greater than the optimal economic level of withdrawal
-* 
+* Hardin used the grazing commons as a metaphor for the general problem of overpopulation - it has been used to describe diverse problems as the Sahelian famine, firewood crises in the Third World, the problem of acid rain, overspending, urban crime, public sector/private sector relationships, the problem of international cooperation etc
+* This model has often been formalized as a prisoner's dilemma game - this is a noncooperative game in which all players possess complete information- in these games communication is forbidden or impossible or just irrelevant
+	* In the prisoner's dilemma, the dominant strategy is the defect
+	* When both players choose t
