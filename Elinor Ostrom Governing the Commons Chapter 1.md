@@ -27,4 +27,7 @@ Three influential models
 * Olson challenged the presumption that the possibility of a benefit for a group would be sufficient to generate collective action to achievev that benefit
 	* unless the number of individuals is small or there is coercion or some special device to make individuals act in their common interests, rational, self-interested individuals will not act to achieve their common or group interests
 * Olson's argument rests on the premise that one who cannot be excluded from obtaining the benefits of a collective good once the good is produced has little incentive to contribute voluntarily to the provision of that good
-* Olson consi
+* Olson considers it an open question whether intermediate size groups will or will not voluntarily provide collective benefits
+	* His definition of an intermediate size group depends on how noticeable each person's actions are 
+	* At the heart of each model is the free rider problem -> whenever one person cannot be excluded from the benefits the others provide, each person is motivated not to contribute to the joint effort but to free ride on the efforts of others - if everyone chooses to free ride, the collective benefit will not be produced
+	* Danger of assuming constraints are fixed for the purpose of analysis and taken on faith as being fixed 
