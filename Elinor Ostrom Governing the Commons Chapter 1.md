@@ -15,4 +15,6 @@ Three influential models
 * The phrase "the tragedy of the commons" took off since Garrett Hardin's challenging article in Science (1968) - symbolizing the degradation of the environment to be expected when many individuals use a scarce resource in common
 	* This thread of thinking goes back to Aristotle 
 	* The conservative dictum "everybody's property is nobody's property - wealth that is free for all is valued by noone"
-	* (this is clearly culturally dependent and not true in indigenous cultures)
+	* (this is clearly culturally dependent and not true in indigenous cultures or even prehistoric ones)
+* Standard analyses in resource economics concludes that when a number of users have access to a common-pool resource, the total of resource units withdrawn from the resource will be greater than the optimal economic level of withdrawal
+* 
