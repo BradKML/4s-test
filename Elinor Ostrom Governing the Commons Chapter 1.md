@@ -23,4 +23,6 @@ Three influential models
 	* When both players choose the dominant strategy, they produce an equilibrium that is the third best result for both - neither has an incentive to change that is independent of the strategy choice of the other - however this is not a Pareto optimal outcome
 	* The paradox that individually rational strategies lead to collectively irrational outcomes challenges a fundamental faith that rational human beings can achieve rational results
 			* The Prisoner's Dilemma bears directly on fundamental issues in ethics and political philosophy 
-* The logic of collective action - developed by Mancur Olson (difficulty of getting individuals to pursue their joint w)
+* The logic of collective action - developed by Mancur Olson (difficulty of getting individuals to pursue their joint welfare vs individual welfare) - individuals with common interests would voluntarily act so as to try to further those interests
+* Olson challenged the presumption that the possibility of a benefit for a group would be sufficient to generate collective action to achievev that benefit
+	* unless the number of individuals is small or there is coercion or some special device to make individuals act in their common interests, rational, self-interested individuals will not act to achieve their common or group interests
