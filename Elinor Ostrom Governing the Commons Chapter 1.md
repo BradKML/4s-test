@@ -33,4 +33,8 @@ Three influential models
 	* Danger of assuming constraints are fixed for the purpose of analysis and taken on faith as being fixed in empirical settings
 		* Not all users of natural resources are similar incapable of changing their constraints - as long as individuals are viewed as prisoners, policy prescriptions will address this metaphor
 * ==These three models and their many variants are diverse representations of a broader and still-evolving theory of collective action - lots more work to develop the theory into a reliable and useful foundation for policy analysis (as of 1990)
-	* Lots of progress made in from 1960 - 1990 in the last three decades by theorists and empirically oriented social scientists - sweeping conclusions of the first variants of this theory have given way to a mor
+	* Lots of progress made in from 1960 - 1990 in the last three decades by theorists and empirically oriented social scientists - sweeping conclusions of the first variants of this theory have given way to a more qualified body of knowledge involving many more variables and explicit base conditions
+	* Work on the dynamic aspects of empirical settings have begun to generate more optimistic predictions than did earlier models
+		* One of the most exciting areas in the social sciences
+		* Some of the puzzles are key to understanding how individuals jointly using a common-pool resource might be able to achieve an effective form of governing and managing their own commons
+	* Policy prescriptions have relied to a large extent on one of the three original models, but attempting to use these models as th
