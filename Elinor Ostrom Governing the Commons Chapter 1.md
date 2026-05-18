@@ -1,0 +1,1 @@
+* People can't agree on how to solve a collective action problem like overfishing
