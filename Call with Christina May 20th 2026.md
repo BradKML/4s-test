@@ -8,4 +8,6 @@ Nestr - sociocracy self management platform - only used this for retros - approp
 Parabol - good for retrospective - last phase of work - and you reflect on how you did the work - letting people bring things to attention before they become a probably 
 Volunteer teams are really hard - being aware of the different boundaries - if you have more time than a lot of people - what the next thing they need to know is and a way to sense that 
 
-Handbook on checkins - high performing time - fuck productivity, focus on team health - 5 thi
+Handbook on checkins - high performing time - fuck productivity, focus on team health - 5 things that would be useful 
+
+Financing - that's the question of the day 
