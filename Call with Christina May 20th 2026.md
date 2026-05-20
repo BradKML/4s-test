@@ -1,2 +1,2 @@
 Facilitating Software Architecture book - team decision making process - anarchosyndicalism for software teams in corporate settings
-O Reilly book - communication - has some good pieces
+O Reilly book - communication - has some good pieces - Jacky Reed's communication patterns - humble bundle has it in their sales - communication patterns for getting to alignment - different roles and people in the process - brings up things that have used in the past - depends on who you have 
