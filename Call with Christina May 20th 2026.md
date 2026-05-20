@@ -10,4 +10,8 @@ Volunteer teams are really hard - being aware of the different boundaries - if y
 
 Handbook on checkins - high performing time - fuck productivity, focus on team health - 5 things that would be useful 
 
+Liminal Works - For Collective Liberation? Fostering collective liberation through innovative technology solutions
+
+How we do hierarchy isn't logical, it's neurological - resetting of the nervous system - you can't tell people how to organize a
+
 Financing - that's the question of the day 
