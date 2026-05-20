@@ -13,6 +13,9 @@ Handbook on checkins - high performing time - fuck productivity, focus on team h
 Liminal Works - For Collective Liberation? Fostering collective liberation through innovative technology solutions
 
 How we do hierarchy isn't logical, it's neurological - resetting of the nervous system - you can't tell people how to organize and watch it happen 
-Thomas - put together projects for 36 and 72 hour hackathons - self forming into teams to work on projects- identify the various different roles - working over a weekend/three day stretch - 12 different teams and all working differently - small projects and testcases - very adapative, focused on who the individuals are - sometimes there's really quick alignment - filling in gaps they know they have - most of the hackathons and challenges were focused on crisis relief after disasters - in a non critical environment - a
+Thomas - put together projects for 36 and 72 hour hackathons - self forming into teams to work on projects- identify the various different roles - working over a weekend/three day stretch - 12 different teams and all working differently - small projects and testcases - very adapative, focused on who the individuals are - sometimes there's really quick alignment - filling in gaps they know they have - most of the hackathons and challenges were focused on crisis relief after disasters - in a non critical environment - a lot of tech being used were coming out of closed government environments and then made publicly available to citizens - having a turnaround in under 48 hours. 
+
+Innovator's Digital Playbook  - online teams
+Built a platform that made it easy to build a team - people self defined background, skills - people didn't know until they got there - need to have database? whatever tech that's missing - if
 
 Financing - that's the question of the day 
