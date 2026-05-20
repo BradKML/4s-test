@@ -26,4 +26,7 @@ Financing - that's the question of the day
 Looked at 300 papers in the regenerative movement - to look at the blindspots of researchers - https://link.springer.com/content/pdf/10.1007/s13280-025-02232-7.pdf - how looking at regeneration through an academic lens can warp it - find current ways people in the zeitgeist are talking about the two movements - mapping based on words they use
 Capra - https://www.slideserve.com/gene/interconnectedness-of-world-problems-powerpoint-ppt-presentation
 Eric Berlow - network ecologist - intelligible - https://www.youtube.com/watch?v=ThV4pnPbI8E - unpacks it as an ordered network 
-Building pieces at the edges that are helpful for small part
+Building pieces at the edges that are helpful for small parties - where it's been falling apart is doing things centrally - need for small applications, for data visualizations that just haven't been built - generative nature of current llms - they stray from common variables and common underpinnings - they get fragile very quickly - monthly mentoring with principle engineers and engineering leads and product side 
+It takes a lot of resources to build a llm - but you can build small and medium sized language models - something in the 
+
+pile of research that might be interesting: https://www.inkandswitch.com/
