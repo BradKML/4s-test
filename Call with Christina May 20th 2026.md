@@ -18,6 +18,7 @@ Thomas - put together projects for 36 and 72 hour hackathons - self forming into
 Innovator's Digital Playbook  - online teams
 Built a platform that made it easy to build a team - people self defined background, skills - people didn't know until they got there - need to have database? whatever tech that's missing - if they had somenoe that could learn quickly and do things - allowed people to self identity - teams capped at 12 people - teams were somewhere between 5 and 8 people - sometimes teams would blow up - sometimes people had other roles just filling in - a flag for information to go up - the teams assembled around need but most people knew enough to recognize the gaps
 
-From the abstract - need to pick whether you're going to look at behaviours or bring AI into that - human AI agent interactions or 
+From the abstract - need to pick whether you're going to look at behaviours or bring AI into that - human AI agent interactions or ownership and power? (though you can't have healthy behaviour if you have the ownership part, have to constrain it)-> here's the questions about ownership and behaviour 
+DWeb is not monolithic - there's a huge variety - depending on how you define them - could define all the way to the alt right to super direct action 
 
 Financing - that's the question of the day 
