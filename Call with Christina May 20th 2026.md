@@ -38,4 +38,7 @@ Parabol acts as a facilitator for the meetings - also generativity of a smaller 
 Github Projects isn't bad - if you have enough buy in, don't introduce until the team is a team - this is less for teaming and more another example: looking at different interventions - good causal model
 
 https://kumu.io/TeamEarth/pandemic-response-dynamics
-Insight maker and vinsome - unless you have a constrained system - building a model of complexity in order to understand it is misunderstanding complexity from the start - how does having a conversation
+Insight maker and vinsome - unless you have a constrained system - building a model of complexity in order to understand it is misunderstanding complexity from the start - how does having a conversation around the dynamics change the conversation you can have 
+
+Read the team health article and talk to participants, talk about what their buy in is - making commitment explicit and sticking to that - start with the baseline - getting clear on what people are interested in, own boundaries and limitations 
+STS frameworks and networks maybe could be useful for mappers
