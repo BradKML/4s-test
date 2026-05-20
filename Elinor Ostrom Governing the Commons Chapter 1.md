@@ -58,5 +58,7 @@ Current Policy Prescriptions:
 An alternative solution
 * A fifth game where herders themselves can make a binding contract to commit themselves to a cooperative strategy they themselves will work out - to represent this arragnement within a non cooperative framework, additional moves must be overtly included in game structure - a binding contract interpreted within noncooperative game theory as one unfailingly enforced by an external actor
 
-* During negotiations, they discuss various strategies for sharing the carrying capacity of the meadow and costs of enforcing their agreement. Contracts a
+* During negotiations, they discuss various strategies for sharing the carrying capacity of the meadow and costs of enforcing their agreement. Contracts are not enforceable unless agreed to unanimously by herders. Any proposal made by one herder that did not involve an equal sharing of the carrying capacity and enforcement costs would be vetoes by the other herder in their negotiations - the only feasible agreement and equilibrium of the resulting game is for both herders to share equally the sustainable yield levels of the meadow and the costs of enforcing their agreement as long as each herder's share of the cost is less than 10 (?)
+	* Herders can ask the enforcer to enforce only that which they have agreed
+	* Many long-term business ex
 
