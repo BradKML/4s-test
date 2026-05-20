@@ -32,3 +32,5 @@ How frameworks can be assimilated and used - team health article - make sure you
 
 pile of research that might be interesting: https://www.inkandswitch.com/
 https://www.liberatingstructures.com/ls/ - instruction book on how to do it - the art of hosting - most really good facilitators - watching videos of people doing the process 
+Facilitation - live act of having a conversation, exploring things together, a bunch of different frameworks - for convergence, some for divergence
+Project Management - Goals and tasks - there are adaptive ways to approach it - the tools work against us - if you have a lightweight team - parabol has a lightweight task board - tool for meetings might be enough - ask people what they already use and present parabol and nestr as alternatives - hard with a team of 7 to align on tools - how much buy in - if you only have a few hours a week - project ma
