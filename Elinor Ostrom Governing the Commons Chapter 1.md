@@ -65,3 +65,7 @@ An alternative solution
 	* The arbitrator helps parties find methods to resolve disputes that arise within the set of working rules to which parties themselves have agreed
 		* There are a variety of enforcement mechanisms, including external governmental agencies, members of the users' community who have been employed as monitors and enforcers
 * A self-financed contract enforcement game is no panacea - such institutional arrangements have many weaknesses in many settings - the herders can overestimate or underestimate the carrying capacity of the meadow, the monitoring system might break down, the external enforcer might not be able to enforce ex post after promising to do so ex ante, a myriad of problems can occur in natural settings - as is the case with idealized centralized regulation or private property institutions
+
+An empirical alternative:
+* 100 fishers in Alanya, Turkey - half of the fishers belong to a local producer's cooperative. The early 1870s were "the dark ages" for Alanya - the economic viability of the fishery led to hostility and at times violen tconflict among the users. Second, competition among fishers for better fishing spots had increased production costs, as well as the level of uncertainty regarding the harvest potential of any particular boat.
+* Mm
