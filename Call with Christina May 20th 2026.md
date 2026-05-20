@@ -23,4 +23,4 @@ DWeb is not monolithic - there's a huge variety - depending on how you define th
 This is not a mapping of principles but an effort at mapping the ecosystem - https://kumu.io/DigLife/decentralized-tech#ecosystem
 There was a review of the literature which seems doable if the question is honed in
 Financing - that's the question of the day 
-Looked at 300 papers in the regenerative movemen
+Looked at 300 papers in the regenerative movement - to look at the blindspots of researchers - https://link.springer.com/content/pdf/10.1007/s13280-025-02232-7.pdf - how looking at regeneration through an academic lens can warp it - find current ways people in the zeitgeist are talking about the two movements - mapping based on words they use
