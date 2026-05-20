@@ -61,4 +61,5 @@ An alternative solution
 * During negotiations, they discuss various strategies for sharing the carrying capacity of the meadow and costs of enforcing their agreement. Contracts are not enforceable unless agreed to unanimously by herders. Any proposal made by one herder that did not involve an equal sharing of the carrying capacity and enforcement costs would be vetoes by the other herder in their negotiations - the only feasible agreement and equilibrium of the resulting game is for both herders to share equally the sustainable yield levels of the meadow and the costs of enforcing their agreement as long as each herder's share of the cost is less than 10 (?)
 	* Herders can ask the enforcer to enforce only that which they have agreed
 	* Many long-term business exchanges have the structure of a prisoner's dilemma - businesses are hesitant to accept promises of future performance rather than enforceable contracts, especially when beginning new business relationships
+	* To reduce enforcement costs a frequent practice 
 
