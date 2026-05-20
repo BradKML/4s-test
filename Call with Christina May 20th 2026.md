@@ -28,6 +28,7 @@ Capra - https://www.slideserve.com/gene/interconnectedness-of-world-problems-pow
 Eric Berlow - network ecologist - intelligible - https://www.youtube.com/watch?v=ThV4pnPbI8E - unpacks it as an ordered network 
 Building pieces at the edges that are helpful for small parties - where it's been falling apart is doing things centrally - need for small applications, for data visualizations that just haven't been built - generative nature of current llms - they stray from common variables and common underpinnings - they get fragile very quickly - monthly mentoring with principle engineers and engineering leads and product side 
 It takes a lot of resources to build a llm - but you can build small and medium sized language models - something in the legal area - ingested volumes of legal decisions - everything around case work - being able to surface things more easily - not something llms handle well - most of what people have been talking about - building tools, applications, ways to support themselves and others 
-How frameworks can be assimilated and used - team health article - make sure you have autonomy so people know how to step up and step back
+How frameworks can be assimilated and used - team health article - make sure you have autonomy so people know how to step up and step back - rounds and clear purposes for each rounds - as a team gets good at it, it gets fast and effective and fair and taps into
 
 pile of research that might be interesting: https://www.inkandswitch.com/
+https://www.liberatingstructures.com/ls/ - instruction book on how to do it - the art of hosting - most really good facilitators - watching videos of people doing the process 
