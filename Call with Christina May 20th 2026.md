@@ -20,5 +20,7 @@ Built a platform that made it easy to build a team - people self defined backgro
 
 From the abstract - need to pick whether you're going to look at behaviours or bring AI into that - human AI agent interactions or ownership and power? (though you can't have healthy behaviour if you have the ownership part, have to constrain it)-> here's the questions about ownership and behaviour 
 DWeb is not monolithic - there's a huge variety - depending on how you define them - could define all the way to the alt right to super direct action - DWeb camp is defined with the principles already - don't know how you could get a sense of the community - might be interesting to explore a few projects and how they're exploring this. The pair is interesting - impact investment are trying to look like they're building a good world but if you actually talk to them - trying to look good, but propagating them same thing - juxtaposition - pick use cases - would not characterize the whole movement - find 3-5 projects in Dweb, 3-5 impact investors willing to talk - person filming Dweb is still not done with the documentary he's making - the art the Internet Archive is trying to support - coherent and legible - there's redecentralize in Berlin in 2014 and 2015, cooperative movement - cluster of coops in Manchester, India 
-
+This is not a mapping of principles but an effort at mapping the ecosystem - https://kumu.io/DigLife/decentralized-tech#ecosystem
+There was a review of the literature which seems doable if the question is honed in
 Financing - that's the question of the day 
+Looked at 300 papers in the regenerative movemen
