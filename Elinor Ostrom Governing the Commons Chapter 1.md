@@ -62,4 +62,5 @@ An alternative solution
 	* Herders can ask the enforcer to enforce only that which they have agreed
 	* Many long-term business exchanges have the structure of a prisoner's dilemma - businesses are hesitant to accept promises of future performance rather than enforceable contracts, especially when beginning new business relationships
 	* To reduce enforcement costs a frequent practice is to use a private arbitrator rather than a civil court as a mechanism to achieve enforcement
-
+	* The arbitrator helps parties find methods to resolve disputes that arise within the set of working rules to which parties themselves have agreed
+		* There are a variety of enforcement mechanisms, including external governmental agencies, members of the users' community who have been employed as monitors and enforcers
