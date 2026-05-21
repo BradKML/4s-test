@@ -100,6 +100,6 @@ An empirical alternative:
 		* Because individuals involved gain a major part of their economic return from the CPRs, they are strongly motivated to try to solve common problems to enhance their own productivity over time - the effort to self organize might be exaggerated? and when it fails it is not because the collective benefits that could have been obtained were unimportant?
 		* Limits on types of CPRs 1) renewable rather than nonrenewalbe resources, 2) situations where substantial scarcity exists rather than abundance 3) situations in which the users can substantially harm one another but not situations in which participants can produce major external harm for others
 		* These are cases that provide clear information about the processes involved in 1) governing long-enduring CPRs, 2) transforming existing institutional arrangements 3) failing to overcome continued CPR problems - collection of the most salient raw materials to understand how individuals organize and govern themselves to obtain collective benefits in situations where the temptations to free ride and break commitments are substantial
-		* Elinor tries to identify the underlying design principles of the institutions used by those who have succesffully managed their own CPRs 
+		* Elinor tries to identify the underlying design principles of the institutions used by those who have successfully managed their own CPRs 
 
 James Kwak - Economism
