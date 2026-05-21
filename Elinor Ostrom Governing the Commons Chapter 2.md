@@ -15,7 +15,8 @@ The CPR Situation
 	* Appropriators use or consume the resource units they withdraw
 	* They also use resource units as inputs into production processes 
 	* In other instances they immediately transfer ownership of resource units to others
-	* The analysis of scarce renewable resources is made from the perspective of appropriators. THis is not the only perspective that can be used in an analysis of complex CPR problems.
+	* The analysis of scarce renewable resources is made from the perspective of appropriators. THis is not the only perspective that can be used in an analysis of complex CPR problems - if the appropriator of the CPR gains considerable market power, such as by creating a cartel to influence price, their strategies affect themselves as well as others - the analysis related to situations in which CPR appropriators have no power in a final goods market
+	* Provider - those who arrange for the provision of a CPR. Producer - those who take actions to ensure the long-term sustenance of the resource system itself. Frequently producers and providers are thes ame people b ut do not have to be
 	* There is an important class of collective action problems which arise in connection with the use of resources to which there is open access- resources that is which nobody is prevented from using - resources need not be public goods
 
 path dependent evolution of CAS
