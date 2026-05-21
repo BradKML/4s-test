@@ -24,6 +24,13 @@ The CPR Situation
 * The high costs of physically excluding joint appropriators from the resource or from improvements made to the resource system aer similar to the high costs of excluding potential beneficiaries from public goods.
 * Crowding effects and overuses problems are chronic in CPR situations but absent in pure public goods - subtractability of the resource unit leads to the possibility of approaching the limit of the number of resource units produced by a CPR. When the CPR is a man made structuer, approaching the limit of crossing units will lead to congestion.
 * Appropriation and use of resource units are more closely related to the theory of private goods than public goods. On the other hand, the process of designing, implementing, enforcing a set of rules to coordinate provision activities is equibalent to the provision of a local collective good.
+* WIthout a fair, orderly, efficient method of allocating resource units, local appropriators have little motivation to contribute to the  continued provision of the resource system
+
+Rational appropriators in complex and uncertain situations
+
+* An individual's choice of behaviour in any particular situation will depend on how the individual learns about, views, and weighs the benefits and costs of actions and their perceived linkage to outcomes that also involve a mixture of benefits and costs
+* Organizing appropriators for collective action regarding a CPR is usually an uncertain and complex undertaking. Uncertainty has many external sources: the quantity and timing of rainfall, the temperature and amount of sunlight, the presence or absence of disease bearing vectors, market prices of various inputs or final products. Other sources of uncertainty are internal to the CPR and the appropriators using the CPR - a major source of uncertainty is the lack of knowledge. The exact structure of the resource system, its boundary and internal characteristics - must be established. Ascertaining the structure of the resource system may come about as a byproduct of extended use and careful observation, as in the case of appropriating from a fishing ground or grazing range. This folk knowledge must be preserved and passed along from one generation to the next.
+* Excess water taken by the farmer located near the headworks may subsequently also flow to farmers located lower in the system.
 
 path dependent evolution of CAS
 deviations from expected utility 
