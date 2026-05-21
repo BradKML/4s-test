@@ -16,8 +16,12 @@ The CPR Situation
 	* They also use resource units as inputs into production processes 
 	* In other instances they immediately transfer ownership of resource units to others
 	* The analysis of scarce renewable resources is made from the perspective of appropriators. THis is not the only perspective that can be used in an analysis of complex CPR problems - if the appropriator of the CPR gains considerable market power, such as by creating a cartel to influence price, their strategies affect themselves as well as others - the analysis related to situations in which CPR appropriators have no power in a final goods market
-	* Provider - those who arrange for the provision of a CPR. Producer - those who take actions to ensure the long-term sustenance of the resource system itself. Frequently producers and providers are thes ame people b ut do not have to be
+	* Provider - those who arrange for the provision of a CPR. Producer - those who take actions to ensure the long-term sustenance of the resource system itself. Frequently producers and providers are the same people but do not have to be
 	* There is an important class of collective action problems which arise in connection with the use of resources to which there is open access- resources that is which nobody is prevented from using - resources need not be public goods
+* A resource system can be jointly provided and/or produced by more than one person or firm - the actual process of appropriating resource units from SPR can be undertaken by multiple appropriators simultaneously. Resource units are not subject to joint use or appropriation - the fish harvested by one boat are not there for someone else.
+	* It is costly and in some cases infeasible to exclude one appropriator of a resource system from improvements made to the resource system itself. All appropriators benefit from maintenance performed on an irrigational canal, bridge etc whether they contribute or not.
+* Failure to distinguish between subtractibility of resource units and jointness of resource system in the past contributed to confusion about the relationship of CPRs to public or collective goods
+* The high costs of physically excluding joint appropriators from the resource or from improvements made to the resource system aer similar to the high costs of excluding potential beneficiaries from public goods.
 
 path dependent evolution of CAS
 deviations from expected utility 
