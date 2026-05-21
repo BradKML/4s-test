@@ -6,4 +6,5 @@
 
 path dependent evolution of CAS
 deviations from expected utility
+whats the intersection of CAS and game theory?
 crisis in legitimacy of democratic institutions and journalism/writing and public sphere/civil discourse??
