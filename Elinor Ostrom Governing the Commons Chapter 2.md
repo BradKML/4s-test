@@ -24,3 +24,4 @@ agent based computation ecoomics/complexity economics - blending happens in evol
 norms as reference dependent heuristics, CAS and asymmetric tipping points, prospect theory
 whats the intersection of CAS and game theory?
 crisis in legitimacy of democratic institutions and journalism/writing and public sphere/civil discourse??
+economics in different places, reports, news, alt media?
