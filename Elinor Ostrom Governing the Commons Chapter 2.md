@@ -16,7 +16,7 @@ The CPR Situation
 	* They also use resource units as inputs into production processes 
 	* In other instances they immediately transfer ownership of resource units to others
 	* The analysis of scarce renewable resources is made from the perspective of appropriators. THis is not the only perspective that can be used in an analysis of complex CPR problems.
-
+	* There is an important class of collective action problems which arise in connection with the use of resources to which there is open access- resources that is which nobody is prevented from using - resources need not be public goods
 
 path dependent evolution of CAS
 deviations from expected utility 
