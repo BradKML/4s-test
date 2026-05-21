@@ -92,3 +92,6 @@ An empirical alternative:
 	* Until a theoretical explanation based on human choice for self organized and governed enterprises is fully developed and accepted, major policy decisions will continue to be undertaken with a presumption that individuals cannot organize themselves and will always need to be organized by external authorities.
 	* All organizational arrangements are subject to stress weakness and failure. WIthout an adequate theory of self organized collective action, one cannot predict or explain when individuals will be unable to solve a common problem through self organization alone, nor can one begin to ascertain which of many intervention strategies might be effective in helping to solve particular problems.
 	* Regulatory agencies are not the same as a court system used by self organizing groups to monitor and enforce contracts
+* Ostrom attempts
+
+James Kwak - Economism
