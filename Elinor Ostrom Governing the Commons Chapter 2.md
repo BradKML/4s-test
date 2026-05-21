@@ -12,6 +12,10 @@ The CPR Situation
 	* resource units are what individuals appropriate or use from resource systems
 	* The distinction between resource as stock and harvest of units as flow is useful in connection with renewable resources - as long as the average rate of withdrawal does not exceed the average rate of replenishment, a renewable resource is sustained over time
 	* Access to a CPR can be limited to a single individual or firm or to multiple individuals or teams of individuals who use the resource system at the same time 
+	* Appropriators use or consume the resource units they withdraw
+	* They also use resource units as inputs into production processes 
+	* In other instances they immediately transfer ownership of resource units to others
+	* The analysis of scarce renewable resources is made from the perspective of appropriators. THis is not the only perspective that can be used in an analysis of complex CPR problems.
 
 
 path dependent evolution of CAS
