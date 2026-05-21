@@ -5,12 +5,16 @@
 * Many efforts to analyze collective action problems can be represented as prisoner's dilemma games - a single level analysis is sufficient, transaction costs are insignificant and can be ignored? -> the last chapter looks at assumptions that are alternatives to those that normally frame the analysis of collective action
 
 The CPR Situation
-* Common-pool resource refers to a natural or man-made resource system that is sufficiently large as to make it costly but not impossible to exclude potential benficiaries from obtaining benefits from its use 
+* Common-pool resource refers to a natural or man-made resource system that is sufficiently large as to make it costly but not impossible to exclude potential benficiaries from obtaining benefits from its use
+* To understand the processes of organizing and governing CPRs, it is essential to distinguish between the resource system and the flow of resource units produced by the system, while recognizes dependance of one on the other
+* Resource systems are best thought of a stock variables that are capable of producing a maximum quantity of a flow variable without harming the stock or resource system itself
+	* these include fishing grounds, groundwater basins, grazing areas, irrigation canals, bridges, parking garages, mainframe computers, bodies of water
+	* reo
 
 
 path dependent evolution of CAS
 deviations from expected utility 
 agent based computation ecoomics/complexity economics - blending happens in evolutionary game theory applied to CAS - Social ecological systems (SES) - using game theory within a CAS lens
-norms as reference dependent heuristics, CAS and asymmetric tipping points, prospe
+norms as reference dependent heuristics, CAS and asymmetric tipping points, prospect theory
 whats the intersection of CAS and game theory?
 crisis in legitimacy of democratic institutions and journalism/writing and public sphere/civil discourse??
