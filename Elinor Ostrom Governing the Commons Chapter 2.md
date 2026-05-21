@@ -9,6 +9,8 @@ The CPR Situation
 
 
 path dependent evolution of CAS
-deviations from expected utility
+deviations from expected utility 
+agent based computation ecoomics/complexity economics - blending happens in evolutionary game theory applied to CAS - Social ecological systems (SES) - using game theory within a CAS lens
+norms as reference dependent heuristics, CAS and asymmetric tipping points, prospe
 whats the intersection of CAS and game theory?
 crisis in legitimacy of democratic institutions and journalism/writing and public sphere/civil discourse??
