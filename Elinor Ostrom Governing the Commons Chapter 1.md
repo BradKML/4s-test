@@ -94,5 +94,6 @@ An empirical alternative:
 	* Regulatory agencies are not the same as a court system used by self organizing groups to monitor and enforce contracts
 * Ostrom attempts to combine the strategy used by many scholars associated with "new institutionalism" with the strategy used by biologists for conducting empirical work related to the development of a better theoretical understanding of the biological world
 	* SHe presumes that most individuals have similar limited capabilities to reason and figure out the structure of complex environmeents instead of presuming some individuals are incompetent, evil, or irrational. Ostrom tried to ascertain what problems individuals are trying to solve and what factors help or hinder them in these efforts. When the problems observed invovle lack of predictability, information, and trust, as well as high levels of complexity and transactional difficulties, then efforts to explain must take away these problems overtly into account rather than assuming them away.
+	* Biologists face the problem of studying complex processes that are poorly understood - identifying the simplest possible organism in which a process occurs is clarified - it is chosen not because is representative but becaause particular processes can be studied more effectively using an organism than another
 
 James Kwak - Economism
