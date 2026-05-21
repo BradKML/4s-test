@@ -23,6 +23,7 @@ The CPR Situation
 * Failure to distinguish between subtractibility of resource units and jointness of resource system in the past contributed to confusion about the relationship of CPRs to public or collective goods
 * The high costs of physically excluding joint appropriators from the resource or from improvements made to the resource system aer similar to the high costs of excluding potential beneficiaries from public goods.
 * Crowding effects and overuses problems are chronic in CPR situations but absent in pure public goods - subtractability of the resource unit leads to the possibility of approaching the limit of the number of resource units produced by a CPR. When the CPR is a man made structuer, approaching the limit of crossing units will lead to congestion.
+* Appropriation and use of resource units are more closely related to the theory of private goods than public goods. On the other hand, the process of designing, implementing, enforcing a set of rules to coordinate provision activities is equibalent to the provision of a local collective good.
 
 path dependent evolution of CAS
 deviations from expected utility 
