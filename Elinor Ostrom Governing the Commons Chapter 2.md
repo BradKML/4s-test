@@ -5,3 +5,4 @@
 
 path dependent evolution of CAS
 deviations from expected utility
+crisis in legitimacy of democratic institutions and journalism/writing and public sphere/civil discourse??
