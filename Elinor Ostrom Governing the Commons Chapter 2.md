@@ -9,7 +9,9 @@ The CPR Situation
 * To understand the processes of organizing and governing CPRs, it is essential to distinguish between the resource system and the flow of resource units produced by the system, while recognizes dependance of one on the other
 * Resource systems are best thought of a stock variables that are capable of producing a maximum quantity of a flow variable without harming the stock or resource system itself
 	* these include fishing grounds, groundwater basins, grazing areas, irrigation canals, bridges, parking garages, mainframe computers, bodies of water
-	* reo
+	* resource units are what individuals appropriate or use from resource systems
+	* The distinction between resource as stock and harvest of units as flow is useful in connection with renewable resources - as long as the average rate of withdrawal does not exceed the average rate of replenishment, a renewable resource is sustained over time
+	* Access to a CPR can be limited to a single individual or firm or to multiple individuals or teams of individuals who use the resource system at the same time 
 
 
 path dependent evolution of CAS
