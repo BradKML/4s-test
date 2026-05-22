@@ -48,3 +48,5 @@ https://www.socialroots.io/focus-on-team-health/
 	2. Everyone can connect a through line from their daily work to that purpose
 	3. A strong sense of purpose keeps everyone moving in the same direction towards a common goal
 	4. Purpose serves not only as a point to aim for but a team boundary
+		1. When you have clear purpose, you can easily decide whether a new idea is aligned or not
+		2. Well articulated purpose will help potential team members find and participate with teams where they belong
