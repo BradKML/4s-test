@@ -38,4 +38,13 @@ https://www.socialroots.io/focus-on-team-health/
 			1. get curious about failure
 3. Listening - not just moving information between brains, also a process that requires listening, perspective taking, shared understanding- especially important when working remotely and when work is a complex, fast moving domain
 	1. Developed through dialogue as opposed to discussion or debate - the purpose of dialogue is to work to build a shared understanding, not to generate ideas, solve a problem or make a decision. Our aim is really to hear each participant's perspective, figuring out how they fit together and synthesizing them into a larger whole
-	2. Sparking dialogue - inviting everyone to help 
+	2. Sparking dialogue - inviting everyone to help you understand how something works (maybe a team process or customer journey) - schedule a 60 minute conversation that's solely dedicated to getting everyone's perspective on how that things works - few instructions
+		1. Judgment free space where everyone can share their thoughts
+		2. Staying on topic and bringing each other back to the key question 
+		3. Important that everyone stays tuned into the conversation
+			1. Important to lead by example and model good listening - make sure everyone has a chance to offer their insights or ask questions - in the last 10 minutes, have a team member sum up what they heard, ask others to add or rephrase the synthesis
+4. Purpose
+	1. On a healthy team, every member knows why they're doing what they're doing
+	2. Everyone can connect a through line from their daily work to that purpose
+	3. A strong sense of purpose keeps everyone moving in the same direction towards a common goal
+	4. Purpose serves not only as a point to aim for but a team boundary
