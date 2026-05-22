@@ -31,4 +31,6 @@ https://www.socialroots.io/focus-on-team-health/
 	2. When a team shares too many of these experiences, members learn that growth is dangerous and they can get stuck in the trap of "learning not to learn"
 	3. Healthy teams activate growth by cultivating curiosity - curiosity allows us to thoroughly explore a situation even if it's uncomfortable and without jumping to an answer too quickly
 	4. When we get curious about our collective challenges, we can better manage the discomfort of uncertainty, confusion, frustration that comes with them, which moves us toward our purpose and makes us stronger as a team
-		1. Curiosity cultivates feedback loops that promote individual 
+		1. Curiosity cultivates feedback loops that promote individual and group learning, creating an upward spiral
+	5. Foster curiosity with team "retros" - schedule regular team conversations that prompt reflection
+		1. retrospectives where the team asks "What's been going well? What hasn't been working? What could change? What low-stakes experiments could we do to determine if our changes actually improve things"
