@@ -3,3 +3,4 @@
 * Architecture needs both "decentralized deciding" and "fast feedback at scale" (Team Topologies)
 * Decentralized governance was one of the original characteristics of microservices
 	* How to empower teams
+* A book that focuses on fundamental change agents - people and culture - enabling teams and organizations to evolve software architectures in a safe and inclusive way
