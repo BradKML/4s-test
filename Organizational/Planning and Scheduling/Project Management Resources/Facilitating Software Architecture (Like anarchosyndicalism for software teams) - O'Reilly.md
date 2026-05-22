@@ -34,3 +34,6 @@ And the tools are still owned by AWS, Azure, Google Cloud (technofeudalism lol -
 * Blending of roles - the highest performance team, supported by the most collaborative architects - never seemed to be adversely affected by the complexity of architectures they were building and running - the blending of roles meant it felt like almost everyone was architecting
 * In the lowest performing teams there was rarely a lack of technical skill - these failing teams lacked a two way relationship with architecture - often hindered by arms length architects and heavily guarded designs and artifacts
 * Software has potential but this power is squandered, manifesting as complexity, rigidity, expense, waste
+* Quality software reflects a team's collective mindset and mental models, which are deeply influenced by the reality of systems running in the wild
+* Book is aimed at developers trying to take steps into architectural accountability and architects learning to add facilitation skills to their repertoire
+* A wide variety of architects: software, domain, solution, business, system, principal engieners, enterprise architects, IT, chief architects etc
