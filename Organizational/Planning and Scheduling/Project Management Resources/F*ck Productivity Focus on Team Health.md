@@ -26,4 +26,7 @@ https://www.socialroots.io/focus-on-team-health/
 			If being open is an issue, engage a professional facilitator to ensure the conversation is honest and generative
 			Ask questions like: Which individual and group mindsets and practices are helping to build safety? Which aren't? What might you do to enhance safety and trust? What do you need to stop doing?
 			Building a feedback loop that allows everyone on your team to learn from each other, make adjustments, improve
-2. 
+2. Learning doesn't happen in a classroom or formal training - we're best at learning "in the wild" - this means daily experiences - spontaneous encounters are always educating us
+	1. some experiences like struggling to satisfy a perfectionist boss or being punished for taking a well calculated risk can sabotage innate curiosity
+	2. When a team shares too many of these experiences, members learn that growth is dangerous and they can get stuck in the trap of "learning not to learn"
+	3. Healthy team
