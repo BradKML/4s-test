@@ -34,3 +34,6 @@ https://www.socialroots.io/focus-on-team-health/
 		1. Curiosity cultivates feedback loops that promote individual and group learning, creating an upward spiral
 	5. Foster curiosity with team "retros" - schedule regular team conversations that prompt reflection
 		1. retrospectives where the team asks "What's been going well? What hasn't been working? What could change? What low-stakes experiments could we do to determine if our changes actually improve things"
+		2. Once you think you know what needs to  change, experiment by making incremental shifts, building prototypes, even role playing to test new ideas
+			1. get curious about failure
+3.
