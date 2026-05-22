@@ -29,4 +29,4 @@ https://www.socialroots.io/focus-on-team-health/
 2. Learning doesn't happen in a classroom or formal training - we're best at learning "in the wild" - this means daily experiences - spontaneous encounters are always educating us
 	1. some experiences like struggling to satisfy a perfectionist boss or being punished for taking a well calculated risk can sabotage innate curiosity
 	2. When a team shares too many of these experiences, members learn that growth is dangerous and they can get stuck in the trap of "learning not to learn"
-	3. Healthy team
+	3. Healthy teams activate growth by cultivating curiosity - curiosity allows us to thoroughly explore a situation even if it's uncomfortable and without jumping to an answer too quickly
