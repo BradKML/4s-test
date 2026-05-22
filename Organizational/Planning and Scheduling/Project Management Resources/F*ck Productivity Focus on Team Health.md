@@ -20,3 +20,8 @@ https://www.socialroots.io/focus-on-team-health/
 	3. When team members feel safe together, they build trust and cultivate strong relationships. They feel and foster a sense of belonging
 	4. All this allows the team to grow together and thrive in their work and even personal lives.
 	5. People and processes, mindsets and behaviours, incentives and external pressures all interact in a dynamic balancing act. There are a lot of ways to develop a maintain and develop a system like this. But there are some essential ingredients that have to be part of the system for safety to emerge - empathy, vulnerability, curiosity, growth mindset, trust, self-awareness, courage and openness.
+
+		Getting the conversation started 
+			A way to develop psychological safety with your team is just to open up a discussion about it - a safe environment is co created, so the whole team needs to participate
+			If being open is an issue, engage a professional facilitator to ensure the conversation is honest and generative
+			Ask questions like: Which individual and group mindsets and practices are helping to build safety? Which aren't? What might you do to enhance safety and trust? What do you need to stop doing?
