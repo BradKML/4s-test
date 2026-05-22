@@ -31,4 +31,6 @@ And the tools are still owned by AWS, Azure, Google Cloud (technofeudalism lol -
 * The approach here: teams have autonomy to make architectural decisions but they have to seek advice from people affected by the choice they make and by supposed experts
 * This process can shape the culture we need, moving towards an organization that optimizes for learning, autonomy and a fast flow of value - involving power sharing and deciding who is accountable
 * Trusting people and allowing them to make choices where they have more expertise
-* Blending of roles - the highest pe
+* Blending of roles - the highest performance team, supported by the most collaborative architects - never seemed to be adversely affected by the complexity of architectures they were building and running - the blending of roles meant it felt like almost everyone was architecting
+* In the lowest performing teams there was rarely a lack of technical skill - these failing teams lacked a two way relationship with architecture - often hindered by arms length architects and heavily guarded designs and artifacts
+* Software has potential but this power is squandered, manifesting as complexity, rigidity, expense, waste
