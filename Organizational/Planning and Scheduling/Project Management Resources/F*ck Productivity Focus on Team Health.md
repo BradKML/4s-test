@@ -56,4 +56,12 @@ https://www.socialroots.io/focus-on-team-health/
 	2. Autonomy means balancing your needs with the needs of others and of the team as a whole. It means taking responsibility for decision making and behaviours related to your work. It's something every member on a healthy team accepts for themselves and gives to others
 	3. Role clarity is essential - autonomy doesn't work without it because you can't get oriented and make decisions about your own work unless you understand how others on the team depend on you. Role clarity decreases the need for constant updates, prevents redundant work from happening, and keeps autonomous work harmonious. 
 		1. 60-90 minute exercise that can help team members to clarify their roles 
-			1. Give everyone about five minutes to write down their roles and responsibilities on sticky notes - then draw connections between roles
+			1. Give everyone about five minutes to write down their roles and responsibilities on sticky notes - then draw connections between roles and observe how everyone's roles interact - discuss them and make changes and corrections when needed
+				1. Clarifying questions:
+					1. What roles are people playing that haven't been captured
+					2. Does everyone agree on what each person's roles are
+					3. Are roles as represented working for each team member? For the team as a whole?
+
+Teams only become high-performing as they create and maintain virtuous cycles that continuously improve health, allowing everyone to grow
+
+
