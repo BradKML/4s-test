@@ -50,4 +50,6 @@ https://www.socialroots.io/focus-on-team-health/
 	4. Purpose serves not only as a point to aim for but a team boundary
 		1. When you have clear purpose, you can easily decide whether a new idea is aligned or not
 		2. Well articulated purpose will help potential team members find and participate with teams where they belong
-	5. Finding out if your team has purpose alignment - ask your team members to jot down what they think the team's purpose is on a sticky note. After five minutes, have everyone post their notes at the same time and read
+	5. Finding out if your team has purpose alignment - ask your team members to jot down what they think the team's purpose is on a sticky note. After five minutes, have everyone post their notes at the same time and read them aloud. If there are divergences spend time trying to understand while people are seeing things differently and start to synthesize the statements into a single clear articulation of purpose
+5. Autonomy - autonomy is not about entitlement to do whatever we want, but about having the trust and authority to make decisions about how we fulfill our responsibilities and accomplish our goals - when we have creative freedom in our area of expertise, we not only find flow and do good work, it also gives us a sense of ownership and this motivates us to show up
+	1. On a heal
