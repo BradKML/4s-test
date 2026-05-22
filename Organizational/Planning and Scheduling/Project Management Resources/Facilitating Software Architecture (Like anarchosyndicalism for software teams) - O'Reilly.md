@@ -37,3 +37,4 @@ And the tools are still owned by AWS, Azure, Google Cloud (technofeudalism lol -
 * Quality software reflects a team's collective mindset and mental models, which are deeply influenced by the reality of systems running in the wild
 * Book is aimed at developers trying to take steps into architectural accountability and architects learning to add facilitation skills to their repertoire
 * A wide variety of architects: software, domain, solution, business, system, principal engieners, enterprise architects, IT, chief architects etc
+	* architects can be within teams or across teams (systems architects - across product suites) - architecture across the entire organization - focus ranges across all technology systems in an organization, not just one built in house
