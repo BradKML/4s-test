@@ -31,3 +31,4 @@ And the tools are still owned by AWS, Azure, Google Cloud (technofeudalism lol -
 * The approach here: teams have autonomy to make architectural decisions but they have to seek advice from people affected by the choice they make and by supposed experts
 * This process can shape the culture we need, moving towards an organization that optimizes for learning, autonomy and a fast flow of value - involving power sharing and deciding who is accountable
 * Trusting people and allowing them to make choices where they have more expertise
+* Blending of roles - the highest pe
