@@ -19,4 +19,4 @@ https://www.socialroots.io/focus-on-team-health/
 	2. When new ideas are allowed to bubble up, flow freely, combine and evolve, these can lead to high-value solutions
 	3. When team members feel safe together, they build trust and cultivate strong relationships. They feel and foster a sense of belonging
 	4. All this allows the team to grow together and thrive in their work and even personal lives.
-	5. People and processes, mindsets and behaviours, incentives and exteranl pressures all interact in a dynamic balancing act. There are a lot of ways to develop a maintain
+	5. People and processes, mindsets and behaviours, incentives and external pressures all interact in a dynamic balancing act. There are a lot of ways to develop a maintain and develop a system like this. But there are some essential ingredients that have to be part of the system for safety to emerge - empathy, vulnerability, curiosity, growth mindset, trust, self-awareness, courage and openness.
