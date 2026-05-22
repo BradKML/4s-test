@@ -25,3 +25,5 @@ https://www.socialroots.io/focus-on-team-health/
 			A way to develop psychological safety with your team is just to open up a discussion about it - a safe environment is co created, so the whole team needs to participate
 			If being open is an issue, engage a professional facilitator to ensure the conversation is honest and generative
 			Ask questions like: Which individual and group mindsets and practices are helping to build safety? Which aren't? What might you do to enhance safety and trust? What do you need to stop doing?
+			Building a feedback loop that allows everyone on your team to learn from each other, make adjustments, improve
+2. 
