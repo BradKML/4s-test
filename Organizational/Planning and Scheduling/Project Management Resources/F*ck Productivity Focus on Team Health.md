@@ -15,3 +15,8 @@ https://www.socialroots.io/focus-on-team-health/
 	* 5. Autonomy
 
 1. Safety is not fluff and there's a lot of research showing how hard it is for people to be creative when they're afraid. Team members can only do the hard work of being creative contributors and problem solvers when they feel safe.
+	1. Healthy teams create judgment free environments. Playful idea generation becomes the norm
+	2. When new ideas are allowed to bubble up, flow freely, combine and evolve, these can lead to high-value solutions
+	3. When team members feel safe together, they build trust and cultivate strong relationships. They feel and foster a sense of belonging
+	4. All this allows the team to grow together and thrive in their work and even personal lives.
+	5. People and processes, mindsets and behaviours, incentives and exteranl pressures all interact in a dynamic balancing act. There are a lot of ways to develop a maintain
