@@ -36,4 +36,6 @@ https://www.socialroots.io/focus-on-team-health/
 		1. retrospectives where the team asks "What's been going well? What hasn't been working? What could change? What low-stakes experiments could we do to determine if our changes actually improve things"
 		2. Once you think you know what needs to  change, experiment by making incremental shifts, building prototypes, even role playing to test new ideas
 			1. get curious about failure
-3. Listening - not just moving information between brains, also a process that requires listening, perspective taking, shared understanding- especially important when working r
+3. Listening - not just moving information between brains, also a process that requires listening, perspective taking, shared understanding- especially important when working remotely and when work is a complex, fast moving domain
+	1. Developed through dialogue as opposed to discussion or debate - the purpose of dialogue is to work to build a shared understanding, not to generate ideas, solve a problem or make a decision. Our aim is really to hear each participant's perspective, figuring out how they fit together and synthesizing them into a larger whole
+	2. Sparking dialogue - inviting everyone to help 
