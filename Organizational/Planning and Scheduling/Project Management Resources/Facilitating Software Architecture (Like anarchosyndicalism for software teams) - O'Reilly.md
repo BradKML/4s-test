@@ -38,3 +38,15 @@ And the tools are still owned by AWS, Azure, Google Cloud (technofeudalism lol -
 * Book is aimed at developers trying to take steps into architectural accountability and architects learning to add facilitation skills to their repertoire
 * A wide variety of architects: software, domain, solution, business, system, principal engieners, enterprise architects, IT, chief architects etc
 	* architects can be within teams or across teams (systems architects - across product suites) - architecture across the entire organization - focus ranges across all technology systems in an organization, not just one built in house
+
+
+--
+Chapter 2 - To Practice Architecture is to Decide
+
+* To practice software (and to build anything probably) is full of decisions. You need to decide how you want something to be structured, how you want a process to work for that something, so forth. You need to decide if your team should use resources from a third party such as an open source library.
+* These decisions reflect the power structures and feedback loops that got them there.
+* All architectural decisions are technical decisions. 
+* Types of architectural decisions include: how to split a module and what the boundaries will be, who owns what services, format everyone uses to write their logs and where these logs are sent for collection, how to integrate with a new third party API, how to expose functionality or data via an API or message queue, testing frameworks to use etc.
+* Non architectural decisions include - which IDE developers use, which customer segments are targeted, pair programming on user stories, naming conventions, testing libraries
+* An architectural decision is significant based on three criteria (dependencies, interfaces, construction techniques) and the magnitude of the impact is reliably predictable
+	* If a completely new dependency is added or if you upgrade by a major version with the same vendor, or if there is a complete vendor change. A new API to the interface, a new cnostruciton technique. Placement of function (where some logic or responsibility for something is located), the decision to start/stop using a design pattern 
