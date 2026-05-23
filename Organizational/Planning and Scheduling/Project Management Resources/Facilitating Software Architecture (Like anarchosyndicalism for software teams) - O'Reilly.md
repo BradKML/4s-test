@@ -60,3 +60,12 @@ Chapter 3: Decisions at Scale
 * Software architecture falls into the realm of wicket problems
 * Where does the power balance lie in decision processes - they lie with the decision taker because they will select the option that will be progressed and reject those that will not - for the power to be exercised, options have to be made - a great deal of effort is required to come up with one or more of the options - if a new path is being forged and standard approaches and patterns won't cut it, this can be hard, creative work (types of option making - unchartered territory, well known solutions to enumerate, where a decision's significance is missed and only the most obvious option is considered)
 * Often in the world of traditional software architecture, where option making and decision taking power rests with architects, development teams frequently only witness architects taking decisions or even worse hear about them second hand - this is worst in the ivory tower.  Often the majority of option making is unspoken and unshared, or overly bureaucratic, or both. 
+* Once other people enter the picture you have to consider things like how other people are affected by success or failure or whether they need some convincing. You also have to bear in mind how failure affects timescale, who needs to be involved with implementation and what they need to know. 
+* Approaches fall into two categories:
+	* Autocratic
+	* Delegation
+	* Consultative
+* Decentralized decision processes
+	* Consent
+	* Democratic
+	* Consensus
