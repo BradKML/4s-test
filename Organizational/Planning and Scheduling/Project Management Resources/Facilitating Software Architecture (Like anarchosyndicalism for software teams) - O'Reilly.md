@@ -50,3 +50,5 @@ Chapter 2 - To Practice Architecture is to Decide
 * Non architectural decisions include - which IDE developers use, which customer segments are targeted, pair programming on user stories, naming conventions, testing libraries
 * An architectural decision is significant based on three criteria (dependencies, interfaces, construction techniques) and the magnitude of the impact is reliably predictable
 	* If a completely new dependency is added or if you upgrade by a major version with the same vendor, or if there is a complete vendor change. A new API to the interface, a new cnostruciton technique. Placement of function (where some logic or responsibility for something is located), the decision to start/stop using a design pattern or higher level architectural pattern.
+* Up until the architectural decisions are reflected in the deployed software, they aren't decisions at all - they are aspirations, the code is just a collection of schematics - getting architecture into production as rapidly as possible
+* Product management/business also affect architectural decisions 
