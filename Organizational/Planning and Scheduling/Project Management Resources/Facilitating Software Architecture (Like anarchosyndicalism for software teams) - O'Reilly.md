@@ -90,4 +90,7 @@ An example of an autocratic decision is where a new chief architect joins a star
 	* Avoidant approach - what happens if we don't do anything?
 * With standard processes, there's a tradeoff between response speed and centralization.
 * What makes a decision method fast to respond?
-	* Un
+	* In the consent decision process, a group rather than an individual has influence on decision making, which can play out in a number of ways.
+	* Consent decisions can be fast - when trust in the option maker and decision taker is high, consent from teams can sometimes be preassumed to be given in all circumstances - vetoes cause a slower process
+* Decentralization might not be a good thing in itself - but it can also bring more minds to bear on an increasing number of problems simultaneously
+* In The Age of Surveillance Capitalism, Zuboff discusses how while it's important to think about who is involved in the making and taking of decisions, it's equally important to
