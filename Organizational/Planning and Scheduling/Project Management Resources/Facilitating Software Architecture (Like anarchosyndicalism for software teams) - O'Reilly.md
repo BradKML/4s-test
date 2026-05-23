@@ -70,4 +70,4 @@ Chapter 3: Decisions at Scale
 	* Democratic
 	* Consensus
 
-In an autocratic decision proce
+In an autocratic decision process, there is a single option maker/decision taker and a group that implements the decision, and so sharing the decision here is vitally important
