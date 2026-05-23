@@ -73,4 +73,8 @@ Chapter 3: Decisions at Scale
 In an autocratic decision process, there is a single option maker/decision taker and a group that implements the decision, and so sharing the decision here is vitally important
 An example of an autocratic decision is where a new chief architect joins a startup and decides after no consultation with others that the company will move from Amazon to Azure for their cloud services
 	this can be fast for individual decisions and sometimes powerful but also disastrous. Sometimes it can be poorly implemented and slow overall as all decisions go through a single person, making them a bottleneck.
-	Delegation - a variant of the autocratic method - the autocrat delegates their decision to someone within a wider group who is better placed to make options, take the dec
+	Delegation - a variant of the autocratic method - the autocrat delegates their decision to someone within a wider group who is better placed to make options, take the decision and share it - this method is marginally slower and can lead to better implementations but is still a potential bottleneck as the number of people doing deciding remains small
+	Consultative decision process - here the decision taker is the same person as in the autocratic method but now they actively go to a group of their choosing and seek inputs during the option-making stage
+		The autocrat is not obliged to listen to any of the consultee's inputs but can potentially benefit from them
+		This method is slower than both the autocratic and delegation approaches but can benefit from the expertise of a wider group
+		But whole groups with valid expertise can be shut out completely, never even 
