@@ -69,3 +69,5 @@ Chapter 3: Decisions at Scale
 	* Consent
 	* Democratic
 	* Consensus
+
+In an autocratic decision proce
