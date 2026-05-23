@@ -106,3 +106,5 @@ An example of an autocratic decision is where a new chief architect joins a star
 
 Chapter 4; The Architecture Advice Process
 
+
+
