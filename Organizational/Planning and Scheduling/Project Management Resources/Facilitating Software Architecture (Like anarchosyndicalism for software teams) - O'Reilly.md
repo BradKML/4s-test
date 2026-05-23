@@ -101,4 +101,7 @@ An example of an autocratic decision is where a new chief architect joins a star
 * Parameters a fast and decentralized process would meet:
 	* 1. It must involve the appropriate people while keeping the number as small as possible
 	* 2. It must optimize the entitlement to initialize, make options, take decisions
-	* 3. It should prioritize trust so that people feel the need to involv
+	* 3. It should prioritize trust so that people feel the need to involve themselves in decisions where they have a stake
+	* 4. It should minimize the need for explicit sharing 
+
+Chapter 4; THe Architecture Advice Process
