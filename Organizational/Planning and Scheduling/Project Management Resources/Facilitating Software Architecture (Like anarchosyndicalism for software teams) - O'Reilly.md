@@ -107,6 +107,8 @@ An example of an autocratic decision is where a new chief architect joins a star
 Chapter 4; The Architecture Advice Process
 
 * Decentralized and fast - the architecture advice process is a simple yet powerful approach to deciding that is both decentralized and fast - how this process meets all four requirements for a modern decision process by involving the right number of people, optimizing the entitlement to initiate decisions, prioritizing trust, minimizing the need to communicate decisions.
+* Widespread impact the advice process can have on software and your organization's culture - not only removing blockers and increasing feedback but also promoting healthy equitable communication
+* Is there a way to make architecture less the responsibilities associated with a job title and more about architecture as a collective pratice? Mi
 
 
 
