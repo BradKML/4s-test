@@ -112,6 +112,7 @@ Chapter 4; The Architecture Advice Process
 * In the architecture advice process, there is a single rule: anyone (a development team member of someone playing a cross-team architecture role) can take (select a decision option) and communicate an architectural decision as long as during the option-making stage they seek advice from - everyone who will be meaningfully affected by the decision and People who have expertise in the area in which the decisions is being taken.
 
 * The key factor in a decision's response speed is the number of people who either contribute directly to the taking of a decision or can object to that decision after it is taken. The lower the number, the faster the optimal response speed
+* In the advice process, the number of people involved in and accountable for the taking of the decision is one/one-team-sized group, and the number of people who can object is zero
 
 
 
