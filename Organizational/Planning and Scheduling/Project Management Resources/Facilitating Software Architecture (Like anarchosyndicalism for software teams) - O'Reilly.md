@@ -104,4 +104,5 @@ An example of an autocratic decision is where a new chief architect joins a star
 	* 3. It should prioritize trust so that people feel the need to involve themselves in decisions where they have a stake
 	* 4. It should minimize the need for explicit sharing 
 
-Chapter 4; THe Architecture Advice Process
+Chapter 4; The Architecture Advice Process
+
