@@ -93,4 +93,12 @@ An example of an autocratic decision is where a new chief architect joins a star
 	* In the consent decision process, a group rather than an individual has influence on decision making, which can play out in a number of ways.
 	* Consent decisions can be fast - when trust in the option maker and decision taker is high, consent from teams can sometimes be preassumed to be given in all circumstances - vetoes cause a slower process
 * Decentralization might not be a good thing in itself - but it can also bring more minds to bear on an increasing number of problems simultaneously
-* In The Age of Surveillance Capitalism, Zuboff discusses how while it's important to think about who is involved in the making and taking of decisions, it's equally important to
+* In The Age of Surveillance Capitalism, Zuboff discusses how while it's important to think about who is involved in the making and taking of decisions, it's equally important to think about who initiates the decision process and selects who is involved in it 
+	* Who decides? And Who decides who decides? 
+	* The key factor in a decision process's decentralization with regard to decision rights is the number of people who are de facto entitled to initiate and contribute to the taking of decisions
+	* The greater the number and deeper the involvement, the greater the decentralization
+
+* Parameters a fast and decentralized process would meet:
+	* 1. It must involve the appropriate people while keeping the number as small as possible
+	* 2. It must optimize the entitlement to initialize, make options, take decisions
+	* 3. It should prioritize trust so that people feel the need to involv
