@@ -71,3 +71,5 @@ Chapter 3: Decisions at Scale
 	* Consensus
 
 In an autocratic decision process, there is a single option maker/decision taker and a group that implements the decision, and so sharing the decision here is vitally important
+An example of an autocratic decision is where a new chief architect joins a startup and decides after no consultation with others that the company will move from Amazon to Azure for their cloud services
+	this can be fast for individual decisions and sometimes powerful but also disastrous. Sometimes it can be poorly implemented and slow 
