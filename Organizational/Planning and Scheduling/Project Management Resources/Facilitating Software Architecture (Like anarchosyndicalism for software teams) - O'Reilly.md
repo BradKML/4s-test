@@ -77,4 +77,10 @@ An example of an autocratic decision is where a new chief architect joins a star
 	Consultative decision process - here the decision taker is the same person as in the autocratic method but now they actively go to a group of their choosing and seek inputs during the option-making stage
 		The autocrat is not obliged to listen to any of the consultee's inputs but can potentially benefit from them
 		This method is slower than both the autocratic and delegation approaches but can benefit from the expertise of a wider group
-		But whole groups with valid expertise can be shut out completely, never even 
+		But whole groups with valid expertise can be shut out completely, never even asked for input because the decision taker selects who to consult and who to ignore
+
+* Decentralized decision processes
+	* Consent process - the option maker and decision taker are still the same person, but once the decision is taken, others in a far wider group can block it in the form of a veto - paramount objection
+	* This is a significant shift of power but not a complete one - vetoers do not have the power to directly make the options or take the decision but can block progress after that 
+	* This is open to abuse by those who might deploy the veto with no intention of withdrawing until they get exactly what they want. But on the upside, the decision sharing element is unnecessary or greatly reduced
+	* Democratic decision process
