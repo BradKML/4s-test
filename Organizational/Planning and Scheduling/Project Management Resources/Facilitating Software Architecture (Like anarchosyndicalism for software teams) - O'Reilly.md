@@ -56,4 +56,4 @@ Chapter 2 - To Practice Architecture is to Decide
 Chapter 3: Decisions at Scale
 * What are the standard approaches to decisions at scale and the characteristics of an 'ideal' postrevolutinoary process?
 * A generic decision process that applies to all decisions and that involve more than one individual?
-* Stage 1: Decision Required, Stage 2: The Act of Deciding (option discovery, crafting, assessment, selecting/communication)
+* Stage 1: Decision Required, Stage 2: The Act of Deciding (option discovery, crafting, assessment, selecting/communication) - this also involves assessing the situation, past attempts, stakeholders, constraints
