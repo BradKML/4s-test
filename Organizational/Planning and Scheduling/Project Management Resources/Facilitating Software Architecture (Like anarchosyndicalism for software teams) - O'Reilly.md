@@ -109,6 +109,7 @@ Chapter 4; The Architecture Advice Process
 * Decentralized and fast - the architecture advice process is a simple yet powerful approach to deciding that is both decentralized and fast - how this process meets all four requirements for a modern decision process by involving the right number of people, optimizing the entitlement to initiate decisions, prioritizing trust, minimizing the need to communicate decisions.
 * Widespread impact the advice process can have on software and your organization's culture - not only removing blockers and increasing feedback but also promoting healthy equitable communication
 * Is there a way to make architecture less the responsibilities associated with a job title and more about architecture as a collective pratice? Might there be an alternative approach that could take architects out of the critical but stressful decision path while still maintaining the practice of architecture at the core. A decision process that locates decisions in the right place, involving as few decision takers as possible, while allowing many different individual to make and then take those decisions.
+* In the architecture advice process, there is a single rule: anyone (a development team member of someone playing a cross-team architecture role) can take (select a decision option) and communicate an architectural decision as long as during the option-making stage they seek advice from - everyone who will be meaningfully affected by the decision and People who have expertise in the area in which the decisions is being taken.
 
 
 
