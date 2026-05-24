@@ -125,6 +125,11 @@ Chapter 4; The Architecture Advice Process
 			* An advice process will flip this - there is now one decision taker, but that decision taker arises from the collective, wherever and whenever a decision is required. With the advice process, no one needs to seek permission to initiate this. The answer re who decides and who decides who decides is "whoever feels the need to"
 			* A social contract - the decider (person who initiates the process because they have a need for a decision) and those offering the advice - the people who represent the affected parties and those with expertise
 		* Everyone in the sociotechincal system, those building and running the software, could be called on to play either of these roles
+			* what one wants for oneself, one needs to be able to offers onself
+			* To play well, need others to trust me and I need to trust them
+			* this trust can be built up by involving appropriate people in my decision via their advice by listening to and understanding that advice properly, taking advice into account in the options one shapes and selects when taking the decision, ensuring the right people know about a taken decision by sharing it appropriately
+			* Trust is a big topic
+		* Not everyone welcomes this advice process idea - not everyone feels as ready, willing, able to take on the responsibility and accountability that the advice 
 
 
 
