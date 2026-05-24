@@ -132,6 +132,8 @@ Chapter 4; The Architecture Advice Process
 		* Not everyone welcomes this advice process idea - not everyone feels as ready, willing, able to take on the responsibility and accountability that the advice process entails
 			* complexity and emergence - adopting the advice process can be transformative for both the creations and the social dynamics of the team that build and run them
 	* two tales of how a development team member and an architect might follow this process
+		* Tale 1: team is in need of a solution that lets them disable their unfinished code while pushing directly to trunk and deploying regularly to production -> to do so, they need a significant architectural change involving some form of release toggle 
+			* The team has a lot of local, specific, up to the minute detail on their need. They know about running services, infrastructure, backlog, state of existing pipelines, testing strategies, the skills they have as a group and what they are and aren't comfortable with.
 
 
 
