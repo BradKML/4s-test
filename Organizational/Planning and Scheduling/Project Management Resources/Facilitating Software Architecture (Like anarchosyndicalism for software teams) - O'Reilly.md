@@ -118,6 +118,8 @@ Chapter 4; The Architecture Advice Process
 	* The greater the number of meaningfully affected parties, the more people decision takers are obliged to seek advice from - during the preceding option-making step of the process, those driving the decision are seeking advice -importantly, not permission from those affected by it and those with applicable expertise
 	* The number of meaningfully affected parties, the more people decision takers are obliged to seek advice - to reduce the number of affected parties, need to sharply decision to reduce/remove the impact - teams need to continually validate good system boundaries, reward decoupling, reducing the scope of decisions
 	* Decision takers also no longer need to convince experts of the reasons for a decision, so a rich conversation can take place from the beginning, with the sole goal of seeking and sharing knowledge and experience
+	* With the advice process, those who make and take the decision are also the ones implementing it - the sharing step is simply getting back to the affected parties and experts and letting them know what the decision taken was - this is simpler because everyone was previously involved 
+* In contrast to the architect approach, the advice process locates the center around whoever needs it, whenever it needs to be there - meeting the need for optimal decentralization 
 
 
 
