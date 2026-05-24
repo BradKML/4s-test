@@ -116,6 +116,7 @@ Chapter 4; The Architecture Advice Process
 * The greater the number of "meaningfully affected parties", the more people decision takers are obliged to seek advice from. This actually sets up a valuable reinforcement dynamic - to make fast decisions, teams will look to reduce the number of affected parties they must turn to for advice 
 * More sharply define a decision/reduce or remove its impact on others - continually validate good system boundaries, rewards, decoupling, reducing the scope of the decision.
 	* The greater the number of meaningfully affected parties, the more people decision takers are obliged to seek advice from - during the preceding option-making step of the process, those driving the decision are seeking advice -importantly, not permission from those affected by it and those with applicable expertise
+	* The number of meaningfully affected parties, the more people decision takers are obliged to seek advice 
 
 
 
