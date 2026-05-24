@@ -136,8 +136,7 @@ Chapter 4; The Architecture Advice Process
 			* The team has a lot of local, specific, up to the minute detail on their need. They know about running services, infrastructure, backlog, state of existing pipelines, testing strategies, the skills they have as a group and what they are and aren't comfortable with.
 			* People to seek advice from: peers in delivery teams whose lives would be changed as a consequence of release toggles being implemented - not hard to sit and think - who would have extra work to do as a result of us implementing the decision/whose freedom to act/flexibility to make changes unimpeded might be curtailed as a result of this -> important that the team thought about who might be impacted and spoke to them
 			* These teams could provide a useful "outside but still here and now perspective on the proposal" - providing valuable context and detail
-
-* The deciding team wasn't being reckless or uncompassionate here - as soon as they were reminded of this fact, they realized just how problematic their original proposed change would be. They might get their features to production faster but these other teams were building services for the same end users, just for later stages of the journey.
+			* The deciding team wasn't being reckless or uncompassionate here - as soon as they were reminded of this fact, they realized just how problematic their original proposed change would be. They might get their features to production faster but these other teams were building services for the same end users, just for later stages of the journey.
 
 
 
