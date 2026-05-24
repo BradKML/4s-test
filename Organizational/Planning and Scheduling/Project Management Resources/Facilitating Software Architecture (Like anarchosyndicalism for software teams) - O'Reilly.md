@@ -137,7 +137,7 @@ Chapter 4; The Architecture Advice Process
 			* People to seek advice from: peers in delivery teams whose lives would be changed as a consequence of release toggles being implemented - not hard to sit and think - who would have extra work to do as a result of us implementing the decision/whose freedom to act/flexibility to make changes unimpeded might be curtailed as a result of this -> important that the team thought about who might be impacted and spoke to them
 			* These teams could provide a useful "outside but still here and now perspective on the proposal" - providing valuable context and detail
 
-* In contrast, the advice process locates the center around whoever needs it, whenever it needs to be there (this 'centre' can even be in multiple places at once.) Therefore it meets the key need for optimal decentralization (I'll come back to the ramifications of this again and again throughout this book) 
+* 
 
 
 
