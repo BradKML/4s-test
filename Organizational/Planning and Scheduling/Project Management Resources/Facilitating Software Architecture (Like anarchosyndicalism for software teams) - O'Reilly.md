@@ -120,7 +120,7 @@ Chapter 4; The Architecture Advice Process
 	* Decision takers also no longer need to convince experts of the reasons for a decision, so a rich conversation can take place from the beginning, with the sole goal of seeking and sharing knowledge and experience
 	* With the advice process, those who make and take the decision are also the ones implementing it - the sharing step is simply getting back to the affected parties and experts and letting them know what the decision taken was - this is simpler because everyone was previously involved 
 * In contrast to the architect approach, the advice process locates the center around whoever needs it, whenever it needs to be there - meeting the need for optimal decentralization 
-	* The downside of the most decentralized decision processes (such as democratic or consensus) is that they are always maximally decentralized - everyone is always entitled to contribute to the taking of every decision - c
+	* The downside of the most decentralized decision processes (such as democratic or consensus) is that they are always maximally decentralized - everyone is always entitled to contribute to the taking of every decision - consequently, even in circumstances where everyone is aligned and on the same page with regard to consensus, simply letting everyone be heard on every topic can be at best long-winded 
 
 
 
