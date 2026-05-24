@@ -134,6 +134,8 @@ Chapter 4; The Architecture Advice Process
 	* two tales of how a development team member and an architect might follow this process
 		* Tale 1: team is in need of a solution that lets them disable their unfinished code while pushing directly to trunk and deploying regularly to production -> to do so, they need a significant architectural change involving some form of release toggle 
 			* The team has a lot of local, specific, up to the minute detail on their need. They know about running services, infrastructure, backlog, state of existing pipelines, testing strategies, the skills they have as a group and what they are and aren't comfortable with.
+			* People to seek advice from: peers in delivery teams whose lives would be changed as a consequence of release toggles being implemented - not hard to sit and think - who would have extra work to do as a result of us implementing the decision/whose freedom to act/flexibility to make changes unimpeded might be curtailed as a result of this -> important that the team thought about who might be impacted and spoke to them
+			* These teams could provide a useful "outside but still here and now perspective on the proposal" - providing valuable context and detail
 
 
 
