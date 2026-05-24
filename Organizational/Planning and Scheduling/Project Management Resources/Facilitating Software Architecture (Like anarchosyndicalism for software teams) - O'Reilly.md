@@ -129,7 +129,9 @@ Chapter 4; The Architecture Advice Process
 			* To play well, need others to trust me and I need to trust them
 			* this trust can be built up by involving appropriate people in my decision via their advice by listening to and understanding that advice properly, taking advice into account in the options one shapes and selects when taking the decision, ensuring the right people know about a taken decision by sharing it appropriately
 			* Trust is a big topic
-		* Not everyone welcomes this advice process idea - not everyone feels as ready, willing, able to take on the responsibility and accountability that the advice 
+		* Not everyone welcomes this advice process idea - not everyone feels as ready, willing, able to take on the responsibility and accountability that the advice process entails
+			* complexity and emergence - adopting the advice process can be transformative for both the creations and the social dynamics of the team that build and run them
+	* two tales of how a development team member and an architect might follow this process
 
 
 
