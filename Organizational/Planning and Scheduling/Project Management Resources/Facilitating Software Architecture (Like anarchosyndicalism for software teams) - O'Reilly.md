@@ -115,6 +115,7 @@ Chapter 4; The Architecture Advice Process
 * In the advice process, the number of people involved in and accountable for the taking of the decision is one/one-team-sized group, and the number of people who can object is zero
 * The greater the number of "meaningfully affected parties", the more people decision takers are obliged to seek advice from. This actually sets up a valuable reinforcement dynamic - to make fast decisions, teams will look to reduce the number of affected parties they must turn to for advice 
 * More sharply define a decision/reduce or remove its impact on others - continually validate good system boundaries, rewards, decoupling, reducing the scope of the decision.
+	* The greater the number of meaningfully affected parties, the more people decision takers are obliged to seek advice from 
 
 
 
