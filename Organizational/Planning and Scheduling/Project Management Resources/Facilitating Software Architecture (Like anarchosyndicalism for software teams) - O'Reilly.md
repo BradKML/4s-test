@@ -149,6 +149,8 @@ Chapter 4; The Architecture Advice Process
 			* In this mode, those concerned with the overall systemic architecture (the roles played by people with architect somewhere in their job description - have a mechanism to work out in the open, establish dialogue, build trust and understanding across all teams within the sociotechnical system) - architects had to recognize that they depend on teams to deliver the necessary implementations - had to listen to the teams as part of the contract and make coherent arguments for the benefit of their change - can't make arbitrary, wide-reaching decisions without some attention to teams that would bring them to reality
 	* Advice is often confused with opinion - we have to be able to see how the adviser reached their conclusions - we can consider if the reasons are relevant to our circumstances and reflect a sufficient understanding of the decision we are engaged with - opinions seem to lack a 'why' - they lack supportive reasoning/facts - these are often driven by emotions which are submerged and implicit
 	* When you gather advice, you expand the knowledge and experience base that informs your decision - you are hearing what others would do in your circumstances - you are hearing what they would be thinking or asking themselves if they were in your shoes and hearing why they reached the conclusions they have
+	* Mapping advice onto your specific circumstances power up your decision - you have supporting reasoning or a more cleanly defined context, options, consequences
+	* Offering advice does not make you accountable - taking decisions does - it can be emotionally hard to let go and your roles reason for existing
 
 
 
