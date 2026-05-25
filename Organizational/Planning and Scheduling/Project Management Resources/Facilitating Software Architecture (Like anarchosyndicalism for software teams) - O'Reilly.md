@@ -141,6 +141,7 @@ Chapter 4; The Architecture Advice Process
 			* In many circumstances, "experience" translates, to "past experience an/or wider horizons on the decision"
 			* Not all of the advice a decider receives may change their planned approach, but every piece does contribute toward making them aware of the full scope and impact of their pending decision - as well as learning about different features and their uses, past experiences of different members of the organization and thought processes, teams can also learn about their own limits and build human networks across the organization.
 			* Who raises questions or brings up the need for cross cutting decisions and decisions that arise from the nature and evolution of the system as a whole? These decisions inevitably come from people playing roles outside of any single delivery team
+				* we traditionally think of this as architecture
 
 
 
