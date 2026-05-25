@@ -139,7 +139,7 @@ Chapter 4; The Architecture Advice Process
 			* The deciding team wasn't being reckless or uncompassionate here - as soon as they were reminded of this fact, they realized just how problematic their original proposed change would be. They might get their features to production faster but these other teams were building services for the same end users, just for later stages of the journey.\
 			* Putting yourself in everyone's shoes is difficult to do - someone having something removed from them is far more alert to the fact than someone who might be doing the removing
 			* In many circumstances, "experience" translates, to "past experience an/or wider horizons on the decision"
-			* Not all of the advice a decider receives may change their planned approach, but every piece does contribute toward making them aware of the full scope and impact of their pending decision
+			* Not all of the advice a decider receives may change their planned approach, but every piece does contribute toward making them aware of the full scope and impact of their pending decision - as well as learning about different features and their uses, past experiences of different members of the organization and thought proce
 
 
 
