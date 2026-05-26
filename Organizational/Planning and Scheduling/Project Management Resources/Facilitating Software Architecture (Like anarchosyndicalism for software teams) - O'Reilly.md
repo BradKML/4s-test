@@ -168,6 +168,7 @@ Chapter 5: Rolling Out the Architecture Advice Process
 	* Invite those who offered you advice to observe the review session - model the process and uphold the social contract
 	* Even if one currently lacks decision taking power one can still experiment with the advice process by modeling its fundamental aspects
 	* A team can prepare a decision and take it to the responsible decision taker - you can prove or disprove that the responsible decision taker will be comfortable with the decision your team prepare for them to take
+	* Conversations are key, one can identify and seek advice from people one is obliged to - talk with those with architecture experience 
 
 
 
