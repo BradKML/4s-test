@@ -151,6 +151,7 @@ Chapter 4; The Architecture Advice Process
 	* When you gather advice, you expand the knowledge and experience base that informs your decision - you are hearing what others would do in your circumstances - you are hearing what they would be thinking or asking themselves if they were in your shoes and hearing why they reached the conclusions they have
 	* Mapping advice onto your specific circumstances power up your decision - you have supporting reasoning or a more cleanly defined context, options, consequences
 	* Offering advice does not make you accountable - taking decisions does - it can be emotionally hard to let go and your roles reason for existing
+	* The advice seeker is accountable for the end result - both the decision and resulting implementation - if power is going to transfer, it needs to transfer properly and fully with the advice seeker aware of all the concerns that the advice offerer has.
 
 
 
