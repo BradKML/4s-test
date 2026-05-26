@@ -157,7 +157,9 @@ Chapter 5: Rolling Out the Architecture Advice Process
 
 * How can we implement this in our teams and organizations?
 * How to start experimenting with and adopting the architecture advice process and set up the decision process elements one might need to start conversations and build trust in the social contract within an organization
-* All journeys
+* All journeys to the architecture advice process start somewhere, however that depends on what architectural role you currently play in your organization and what decision rights that offers you
+* If you already have decision taking power (as an architect
+	* you can 
 
 
 
