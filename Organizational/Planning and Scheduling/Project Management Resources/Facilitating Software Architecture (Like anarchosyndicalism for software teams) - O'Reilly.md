@@ -162,7 +162,7 @@ Chapter 5: Rolling Out the Architecture Advice Process
 	* you can gather options and take decisions
 	* The best way to experiment with the advice process is by adopting it openly as a personal practice
 	* Confidence challenging concerns will help you get to the core needs of your architecture practice and set you up for the additional decision processes elements you might need to start conversations and build trust in the social contract within your organization
-	* The best way to experiment with the ad
+	* The best way to experiment with the advice process is by adopting it openly as a personal practice, telling everyone what you are doing, sharing your hypothesis that this will help you decide better and raise awareness of the advice process generally
 
 
 
