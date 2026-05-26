@@ -153,6 +153,10 @@ Chapter 4; The Architecture Advice Process
 	* Offering advice does not make you accountable - taking decisions does - it can be emotionally hard to let go and your roles reason for existing
 	* The advice seeker is accountable for the end result - both the decision and resulting implementation - if power is going to transfer, it needs to transfer properly and fully with the advice seeker aware of all the concerns that the advice offerer has.
 
+Chapter 5: Rolling Out the Architecture Advice Process
+
+
+
 
 
 
