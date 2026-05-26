@@ -160,6 +160,7 @@ Chapter 5: Rolling Out the Architecture Advice Process
 * All journeys to the architecture advice process start somewhere, however that depends on what architectural role you currently play in your organization and what decision rights that offers you
 * If you already have decision taking power (as an architect)
 	* you can gather options and take decisions
+	* The best way to experiment with the advice process is by adopting it openly as a personal practice
 
 
 
