@@ -155,6 +155,8 @@ Chapter 4; The Architecture Advice Process
 
 Chapter 5: Rolling Out the Architecture Advice Process
 
+* How can we implement this in our teams and organizations?
+
 
 
 
