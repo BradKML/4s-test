@@ -167,6 +167,7 @@ Chapter 5: Rolling Out the Architecture Advice Process
 	* Some people might not be empowered to take a decision entirely on their own - have to take it to an Architecture Review Board (ARB) for agreement with the rest of your architecture peer group - then you can share the decision you have made and subsequently are proposing to be taken
 	* Invite those who offered you advice to observe the review session - model the process and uphold the social contract
 	* Even if one currently lacks decision taking power one can still experiment with the advice process by modeling its fundamental aspects
+	* A team can prepare a decision and take it to the responsible decision taker - you can prove or disprove that the responsible decision taker will be comfortable with the decision your team prepare for them to take
 
 
 
