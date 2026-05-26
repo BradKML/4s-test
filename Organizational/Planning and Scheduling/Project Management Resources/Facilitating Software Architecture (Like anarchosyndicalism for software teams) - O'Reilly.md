@@ -161,6 +161,7 @@ Chapter 5: Rolling Out the Architecture Advice Process
 * If you already have decision taking power (as an architect)
 	* you can gather options and take decisions
 	* The best way to experiment with the advice process is by adopting it openly as a personal practice
+	* Confidence challenging concerns will help you get to the core needs of your architecture practice and set you up for the additional decision processes elements you might need to start conversations and build trust in the social contract within your organization
 
 
 
