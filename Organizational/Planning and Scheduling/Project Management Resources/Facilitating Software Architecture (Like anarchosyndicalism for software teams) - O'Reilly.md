@@ -211,6 +211,9 @@ Chapter 5: Rolling Out the Architecture Advice Process
 
 Chapter 6. Architectural Decision Records
 
+* Architecture advice process will transform your organization's decision processes 
+* An essential add on to an advice process base model, supporting and enhancing all its key aspects
+
 
 
 
