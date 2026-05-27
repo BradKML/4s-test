@@ -199,7 +199,10 @@ Chapter 5: Rolling Out the Architecture Advice Process
 			* Advice should also be sought from uncomfortable sources
 			* ==Antagonistic advice is so powerful that some decision processes incorporate it as a matter of course - potentially destructive advice should be encouraged from everyone - it offers different perspectives, forcing you to scrutinize them - even if nothing changes as a consequence, it is reassuring to know that a decision withstood such scrutiny and survived
 	* People fear others acting selfishly with no means to rein them in - but decision takers are not only responsible for decisions but are also accountable for them - this has to be made clear
-	* According to Ruth Malan's definition of effective architecture practice, explicit accountability guarantees that conversations are happening, whether others are required to be involved or not and that when required ap
+	* According to Ruth Malan's definition of effective architecture practice, explicit accountability guarantees that conversations are happening, whether others are required to be involved or not and that when required appropriate and timely guidance can be provided 
+	* If there is truly bad intent alarm bells can sound and organizational mechanisms can kick in beyond those  governing software delivery - mechanism ultimately can remove the person from the organization
+	* Not everyone is ready for accountability - there is also a path for learners to take steps should they feel so inclined
+	* Confidence concerns
 
 
 
