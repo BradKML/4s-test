@@ -223,6 +223,12 @@ Part II - Nurturing and evolving Your Culture of Decentralized Trust
 
 * Chapter 7 explores how power centers and governance are reset when the advice process is introduced - considers where accountability for decision moves and how the space it opens up for a culture of trust to develop needs to be consciously protected - supporting elements and what they might contain and how they might land, fit, evolve, potentially become redundant
 * Chapter 8 - first supporting element - architecture advice forum- a focused space for conversations, advice, transparency, trust building, group and organizational learning
+* Chapter 9 - shines a light on a pari of areas frequently overlooked in other approaches to the practice of architecture - minimal viable agreements aligned to organizational visions and goals - what not how of cross functional requirements before showing how an actionable technology strategy can provide alignment and focus shared efforts
+* Chapter 10 - team sourced architectural principles - how to capture them, use them in decision processes, keep them relevant in light of feedback from decisions being taken
+* Chapter 11 - technology radar - means of regularly sweeping your organization's entire technology landscape to  capture the current climate of experiences, insights, learnings from everyone, representing the guidance in a consumable and digestible form 
+
+
+Chapter 7: Replacing Hierarchy with Decent
 
 
 
