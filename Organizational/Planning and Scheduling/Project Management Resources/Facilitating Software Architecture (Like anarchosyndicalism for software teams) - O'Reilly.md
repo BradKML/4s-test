@@ -203,6 +203,7 @@ Chapter 5: Rolling Out the Architecture Advice Process
 	* If there is truly bad intent alarm bells can sound and organizational mechanisms can kick in beyond those  governing software delivery - mechanism ultimately can remove the person from the organization
 	* Not everyone is ready for accountability - there is also a path for learners to take steps should they feel so inclined
 	* Confidence concerns
+		* A lack of confidence in people - yourself and others - faced with new responsibility, everyone feels uncertainty if they have to exercise a previously underutilized skill- most people gaining comfort with the advice process experience a mix of both - deciding is important but it's also hard
 
 
 
