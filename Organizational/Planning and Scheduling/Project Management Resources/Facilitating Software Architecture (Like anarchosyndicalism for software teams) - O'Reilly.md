@@ -193,6 +193,7 @@ Chapter 5: Rolling Out the Architecture Advice Process
 		* The advice process helps architects to be in many places at once, surfacing key information in decisions without taking away decision power or accountability away from them
 		* In the advice process, teams are under no obligation to do their own deciding - they can rely entirely on those with existing architecture skills if that is their preference
 		* teams tapping architects for organizational literacy is a powerful move
+		* As decisions are being made and advice is sought, incrementally build up a checklist for your organization that shows who has expertise in which areas 
 
 
 
