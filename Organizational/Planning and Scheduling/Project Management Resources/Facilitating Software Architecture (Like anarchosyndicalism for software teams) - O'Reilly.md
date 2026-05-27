@@ -233,6 +233,8 @@ Chapter 7: Replacing Hierarchy with Decentralized Trust
 * How do responsibility and accountability for architectural decisions shift when using the advice process? How is this compatible with wider enterprise architecture frameworks?
 * The power redistribution replaces many existing architectural governance processes, practices, ceremonies, agreements, artifacts, checks and balances
 * Most governance practices will be replaced with two very simple core elements - resetting isn't forgetting
+--
+hypercmoputation
 
 
 
