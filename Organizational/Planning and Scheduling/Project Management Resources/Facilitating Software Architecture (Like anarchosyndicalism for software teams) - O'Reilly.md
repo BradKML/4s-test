@@ -239,6 +239,7 @@ why can neural networks represent all logical operations?
 what are universal turing machines again
 detemrinistic vs predictability
 notes from the complexity intro
+interpretibility
 
 
 
