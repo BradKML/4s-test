@@ -230,6 +230,7 @@ Part II - Nurturing and evolving Your Culture of Decentralized Trust
 
 Chapter 7: Replacing Hierarchy with Decentralized Trust
 
+* 
 
 
 
