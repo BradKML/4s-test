@@ -206,7 +206,12 @@ Chapter 5: Rolling Out the Architecture Advice Process
 		* A lack of confidence in people - yourself and others - faced with new responsibility, everyone feels uncertainty if they have to exercise a previously underutilized skill- most people gaining comfort with the advice process experience a mix of both - deciding is important but it's also hard
 		* Seeming magically good at something is often an illusion, built through years of practice - being new means you can't expect to have some skills and doing it well will be more difficult. It is beneficial to acknowledge the skills gap and work to strengthen skills. New people feel more comfortable with their practice if they have a place to receive support from others - it's like having a safety net or spotter, lending them the confidence to practice their new decision power in increasingly significant situations
 		* Lack of confidence regarding the transparency of advice - it's hard to build trust in others when you have no idea who was involved in the advice giving, what the advice offered was, whether the advice seekers disregarded or even just misunderstood the advice they received. This is because there is no way of knowing if the people consulted had the required expertise, if they were biased, if key advice offerers were left out, or if their contributions were disregarded. Trust is easier to maintain if everyone can see who was consulted and what their advice was
-		* Lack of confidence in knowing everything that is happening - decisions are made in many places, there is no built in way of tracking everything that is happening - when things are working well, there will be a lot more decision because the bottleneck of tradti
+		* Lack of confidence in knowing everything that is happening - decisions are made in many places, there is no built in way of tracking everything that is happening - when things are working well, there will be a lot more decision because the bottleneck of traditional approaches is removed
+			* Both architects and development teams need to have some idea of the context their systems are running in as well as potential changes that might be coming their way
+
+Chapter 6. Architectural Decision Records
+
+
 
 
 
