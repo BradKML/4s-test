@@ -196,6 +196,9 @@ Chapter 5: Rolling Out the Architecture Advice Process
 		* As decisions are being made and advice is sought, incrementally build up a checklist for your organization that shows who has expertise in which areas 
 		* When seeking advice, it can be easy to slip into only engaging those with whom you already have establisehd relationships - this poses problems when those individuals offering advice are used to a traditional, hierarchical power dynamic- they might be inclined to slip into command, direction, opinion - this isn't advice
 			* if anything other than advice is offered, you can deploy skills such as asking "Why?" to get to the advice beneath
+			* Advice should also be sought from uncomfortable sources
+			* ==Antagonistic advice is so powerful that some decision processes incorporate it as a matter of course - potentially destructive advice should be encouraged from everyone - it offers different perspectives, forcing you to scrutinize them - even if nothing changes as a consequence, it is reassuring to know that a decision withstood such scrutiny and survived
+	* People fear others acting selfishly with no means to rein them in - but decision takers are not only responsible for decisions but are also accou
 
 
 
