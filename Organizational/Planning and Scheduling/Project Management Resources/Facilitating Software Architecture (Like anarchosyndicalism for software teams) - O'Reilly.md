@@ -235,7 +235,7 @@ Chapter 7: Replacing Hierarchy with Decentralized Trust
 * Most governance practices will be replaced with two very simple core elements - resetting isn't forgetting
 * Most traditional Governance Practices Become Obsolete 
 	* you no longer need 'signoffs' and 'approvals'. Achitectural principles will no longer be plucked from teh minds of a few. You won't rely on thoughtlessly mandated software frameworks and runtime platforms or spreadsheets full of wooly and untestable "cross-functional requirements". You won't rely on thoughtlessly mandated software frameworks and runtime platforms or spreadsheets full of wooly and untestable "cross-functional" requirements. You don't need to refactor a lot of architectural docuemntation
-* This new alternative doesn't reduce the amount of architecture being performed or remove the need for people who are skilled in architectural thinking - in fact the practice has
+* This new alternative doesn't reduce the amount of architecture being performed or remove the need for people who are skilled in architectural thinking - in fact the practice has been brought closer to the surface, unburdening those practicing it, and leading to more architectur happening not less. The process ensures that those skills are grown, shared, visible, and impactful.
 
 
 --
