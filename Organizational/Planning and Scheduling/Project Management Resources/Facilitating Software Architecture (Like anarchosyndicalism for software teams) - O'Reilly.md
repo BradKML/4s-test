@@ -185,7 +185,10 @@ Chapter 5: Rolling Out the Architecture Advice Process
 		* Failing to explicitly acknowledge the shift in accountability
 	* Explaining the architecture to everyone involved:
 		* for the advice process to be successful, everyone involved needs to know how it works, what the various roles are, how power in the form of responsibility and accountability has shifted
-		* Start with a presentation of facts to everyone who will be involved, including those who are currently responsible for how the architecture decisin process works
+		* Start with a presentation of facts to everyone who will be involved, including those who are currently responsible for how the architecture decision process works, ho wit works, who is involved, key benefits
+		* Make it clear what you are hoping to learn from the experiment. Allow adequate time for questions
+		* Once the concepts and mechanics of the advice process are understood by everyone involved, you can move onto your experiment proper - keep an eye out of indications that the process may have been misunderstood - where misconceptions arise, jump on them fast to prevent confusion
+		* Those who are used to playing architecture roles are least likely to miss advisers - think about whether you're engaging all the right people
 
 
 
