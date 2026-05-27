@@ -183,6 +183,9 @@ Chapter 5: Rolling Out the Architecture Advice Process
 		* Neglecting to engage with all the advice offerers
 		* Missing out on valuable information because you didn't ask "why"
 		* Failing to explicitly acknowledge the shift in accountability
+	* Explaining the architecture to everyone involved:
+		* for the advice process to be successful, everyone involved needs to know how it works, what the various roles are, how power in the form of responsibility and accountability has shifted
+		* Start with a presentation of facts to everyone who will be involved, including those who are currently responsible for how the architecture decisin process works
 
 
 
