@@ -217,6 +217,9 @@ Chapter 6. Architectural Decision Records
 * ADRs are short documents (target length of about two pages worth of text, not counting diagrams or recorded advice - hence why many people refer to them as lightweight ADRs that tend to follow a typical format)
 * ADRs are immutable - written once, read many times, never updated once accepted - as soon as the decision of an ADR is decided, it doesn't change - though they can be superseded 
 * ADRs taken together as a group tell the essential story of a software system steps and missteps alike 
+* Structuer - includes ID and title, status and date, author, decision (in a few sentences), context, options considered, consequences, advice
+
+Part II - Nurturing and evolving Your Culture of Decentralized Trust
 
 
 
