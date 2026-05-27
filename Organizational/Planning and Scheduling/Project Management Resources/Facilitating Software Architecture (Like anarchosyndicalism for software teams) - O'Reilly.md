@@ -194,6 +194,7 @@ Chapter 5: Rolling Out the Architecture Advice Process
 		* In the advice process, teams are under no obligation to do their own deciding - they can rely entirely on those with existing architecture skills if that is their preference
 		* teams tapping architects for organizational literacy is a powerful move
 		* As decisions are being made and advice is sought, incrementally build up a checklist for your organization that shows who has expertise in which areas 
+		* When seeking advice, it can be easy to slip into only engaging those with whom you already have establisehd relationships
 
 
 
