@@ -172,7 +172,9 @@ Chapter 5: Rolling Out the Architecture Advice Process
 	* If the decider disagrees with your selection, take the opportunity to discuss in more detail what led you to take a different direction  - maybe you misunderstood their advice or they didn't give you all the information you required - seek advice from the person who would both making the options and taking the decision in traditional architecture approaches - the most aligned architect
 		* Present the result you would have chosen if you were the decision maker and articulate results clearly - take your recommendation to the authorized decider and present it to them as if they were an ARB - take them through what led you to the need for the decision, options considered, pros and cons, and the advice and whom you sought it from
 		* The architect may not trust your and your team's ability to decide
-		* the goal is that the currently accountable decider gains
+		* the goal is that the currently accountable decider gains enough trust in the team and the advice process to let you adopt it fully and keep making options and taking your own decisions
+	* ==Regardless of where you begin, start small - this is a big change on a lot of levels and for a lot of people - there are a lot of unknowns, and a lot of new skills will need to be learned and old skills unlearned
+	* The advice process will affect everything in your current sociotechnical system - how software is developed, the means to deliver production, levels of trust in your culture, much more
 
 
 
