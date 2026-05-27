@@ -235,6 +235,9 @@ Chapter 7: Replacing Hierarchy with Decentralized Trust
 * Most governance practices will be replaced with two very simple core elements - resetting isn't forgetting
 --
 hypercmoputation
+why can neural networks represent all logical operations?
+what are universal turing machines again
+detemrinistic vs predictability
 
 
 
