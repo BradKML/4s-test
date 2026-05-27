@@ -237,6 +237,7 @@ Chapter 7: Replacing Hierarchy with Decentralized Trust
 	* you no longer need 'signoffs' and 'approvals'. Achitectural principles will no longer be plucked from teh minds of a few. You won't rely on thoughtlessly mandated software frameworks and runtime platforms or spreadsheets full of wooly and untestable "cross-functional requirements". You won't rely on thoughtlessly mandated software frameworks and runtime platforms or spreadsheets full of wooly and untestable "cross-functional" requirements. You don't need to refactor a lot of architectural docuemntation
 * This new alternative doesn't reduce the amount of architecture being performed or remove the need for people who are skilled in architectural thinking - in fact the practice has been brought closer to the surface, unburdening those practicing it, and leading to more architectur happening not less. The process ensures that those skills are grown, shared, visible, and impactful.
 * Approaches to governance must address the social system and organizational culture. Agile ways of working challenge classical IT governance - advice process and ADRs also directly address social systems and cultural issues - they place responsibility and accountability next to each other
+* Explicit ADR accountability is a check to the reckless - in ADR, the author is now the one responsible and accountable -this is where accountability lands - the author being named on ADR makes this clear. System wide decisions initiated by those working across teams ought to fall back to the architect 
 
 
 --
@@ -247,6 +248,9 @@ detemrinistic vs predictability
 notes from the complexity intro
 interpretibility
 paul christiano/reading graph
+narrative explanations, explanations being post hoc, structures changing 
+self report? how is it reported?
+systems where falsification doesn't work
 
 phillip kitcher voting ambition -> the connection between phliosophical frameworks, drives and genocide?
 -> 
