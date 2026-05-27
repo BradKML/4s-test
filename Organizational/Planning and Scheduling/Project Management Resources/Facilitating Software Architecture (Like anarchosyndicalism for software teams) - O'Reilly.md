@@ -204,6 +204,8 @@ Chapter 5: Rolling Out the Architecture Advice Process
 	* Not everyone is ready for accountability - there is also a path for learners to take steps should they feel so inclined
 	* Confidence concerns
 		* A lack of confidence in people - yourself and others - faced with new responsibility, everyone feels uncertainty if they have to exercise a previously underutilized skill- most people gaining comfort with the advice process experience a mix of both - deciding is important but it's also hard
+		* Seeming magically good at something is often an illusion, built through years of practice - being new means you can't expect to have some skills and doing it well will be more difficult. It is beneficial to acknowledge the skills gap and work to strengthen skills. New people feel more comfortable with their practice if they have a place to receive support from others - it's like having a safety net or spotter, lending them the confidence to practice their new decision power in increasingly significant situations
+		* Lack of confidence regarding the transparency of advice - it's hard to build trust in others when you have no idea who was involved in the advice giving, what the advice offered was, whether the advice seekers disregarded or even just misunderstood the advice they received. Th
 
 
 
