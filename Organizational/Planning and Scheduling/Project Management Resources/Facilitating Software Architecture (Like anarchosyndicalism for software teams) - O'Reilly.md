@@ -175,6 +175,14 @@ Chapter 5: Rolling Out the Architecture Advice Process
 		* the goal is that the currently accountable decider gains enough trust in the team and the advice process to let you adopt it fully and keep making options and taking your own decisions
 	* ==Regardless of where you begin, start small - this is a big change on a lot of levels and for a lot of people - there are a lot of unknowns, and a lot of new skills will need to be learned and old skills unlearned
 	* The advice process will affect everything in your current sociotechnical system - how software is developed, the means to deliver production, levels of trust in your culture, much more
+		* Start small and nurture 
+		* This approach centers conversations between equals. Both responsibility and accountability now lie with whoever initiates and takes a decision
+		* Trust and learning are central
+	* Common mistakes:
+		* Mmiscommunicating about the architecture advice process
+		* Neglecting to engage with all the advice offerers
+		* Missing out on valuable information because you didn't ask "why"
+		* Failing to explicitly acknowledge the shift in accountability
 
 
 
