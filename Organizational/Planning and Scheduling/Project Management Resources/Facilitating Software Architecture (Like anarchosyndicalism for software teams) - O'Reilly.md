@@ -213,6 +213,8 @@ Chapter 6. Architectural Decision Records
 
 * Architecture advice process will transform your organization's decision processes 
 * An essential add on to an advice process base model, supporting and enhancing all its key aspects
+* ADR help everyone make gbetter decisions, and advice seeking and sharing happen in the open - they also maintain an accessible history of all decisions for everyone, including supporting advice - helps build and maintain trust is a great resource for learning
+* ADRs are short documents (target length of about two pages worth of text, not counting diagrams or recorded advice - hence why many people refer to them as lightweight ADRs that tend to follow a typical format)
 
 
 
