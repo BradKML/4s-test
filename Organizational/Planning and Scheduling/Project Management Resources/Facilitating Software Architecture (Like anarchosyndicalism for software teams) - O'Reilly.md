@@ -189,6 +189,7 @@ Chapter 5: Rolling Out the Architecture Advice Process
 		* Make it clear what you are hoping to learn from the experiment. Allow adequate time for questions
 		* Once the concepts and mechanics of the advice process are understood by everyone involved, you can move onto your experiment proper - keep an eye out of indications that the process may have been misunderstood - where misconceptions arise, jump on them fast to prevent confusion
 		* Those who are used to playing architecture roles are least likely to miss advisers - think about whether you're engaging all the right people
+		* When development teams first start taking decisions, they may only have a partial knowledge of who to consult in your organization - in this case, one of the first people you should speak to is someone with architecture experience
 
 
 
