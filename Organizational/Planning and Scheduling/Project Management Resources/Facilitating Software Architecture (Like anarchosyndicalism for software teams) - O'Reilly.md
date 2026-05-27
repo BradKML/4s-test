@@ -221,6 +221,8 @@ Chapter 6. Architectural Decision Records
 
 Part II - Nurturing and evolving Your Culture of Decentralized Trust
 
+* Chapter 7 explores how power centers and governance are reset when the advice process is introduced - considers where accountability for decision moves and how the space it opens up for a culture of trust to develop needs to be consciously protected
+
 
 
 
