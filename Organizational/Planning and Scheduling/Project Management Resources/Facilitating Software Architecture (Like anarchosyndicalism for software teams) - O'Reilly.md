@@ -190,6 +190,9 @@ Chapter 5: Rolling Out the Architecture Advice Process
 		* Once the concepts and mechanics of the advice process are understood by everyone involved, you can move onto your experiment proper - keep an eye out of indications that the process may have been misunderstood - where misconceptions arise, jump on them fast to prevent confusion
 		* Those who are used to playing architecture roles are least likely to miss advisers - think about whether you're engaging all the right people
 		* When development teams first start taking decisions, they may only have a partial knowledge of who to consult in your organization - in this case, one of the first people you should speak to is someone with architecture experience
+		* The advice process helps architects to be in many places at once, surfacing key information in decisions without taking away decision power or accountability away from them
+		* In the advice process, teams are under no obligation to do their own deciding - they can rely entirely on those with existing architecture skills if that is their preference
+		* teams tapping architects for organizational literacy is a powerful move
 
 
 
