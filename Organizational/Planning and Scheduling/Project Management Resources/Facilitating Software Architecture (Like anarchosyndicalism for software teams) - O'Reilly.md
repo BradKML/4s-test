@@ -228,7 +228,7 @@ Part II - Nurturing and evolving Your Culture of Decentralized Trust
 * Chapter 11 - technology radar - means of regularly sweeping your organization's entire technology landscape to  capture the current climate of experiences, insights, learnings from everyone, representing the guidance in a consumable and digestible form 
 
 
-Chapter 7: Replacing Hierarchy with Decent
+Chapter 7: Replacing Hierarchy with Decentralized Trust
 
 
 
