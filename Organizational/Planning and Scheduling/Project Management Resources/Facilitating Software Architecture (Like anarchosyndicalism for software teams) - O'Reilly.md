@@ -243,6 +243,7 @@ interpretibility
 paul christiano/reading graph
 
 phillip kitcher voting ambition -> the connection between phliosophical frameworks, drives and genocide?
+-> 
 
 
 
