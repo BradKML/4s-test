@@ -198,7 +198,7 @@ Chapter 5: Rolling Out the Architecture Advice Process
 			* if anything other than advice is offered, you can deploy skills such as asking "Why?" to get to the advice beneath
 			* Advice should also be sought from uncomfortable sources
 			* ==Antagonistic advice is so powerful that some decision processes incorporate it as a matter of course - potentially destructive advice should be encouraged from everyone - it offers different perspectives, forcing you to scrutinize them - even if nothing changes as a consequence, it is reassuring to know that a decision withstood such scrutiny and survived
-	* People fear others acting selfishly with no means to rein them in - but decision takers are not only responsible for decisions but are also accou
+	* People fear others acting selfishly with no means to rein them in - but decision takers are not only responsible for decisions but are also accountable for them - this has to be made clear
 
 
 
