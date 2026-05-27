@@ -84,16 +84,16 @@ An example of an autocratic decision is where a new chief architect joins a star
 	* This is a significant shift of power but not a complete one - vetoers do not have the power to directly make the options or take the decision but can block progress after that 
 	* This is open to abuse by those who might deploy the veto with no intention of withdrawing until they get exactly what they want. But on the upside, the decision sharing element is unnecessary or greatly reduced
 	* Democratic decision process - this refers to the Athenian ideal of direct democracy, not representative democracy. In a representative democracy, individuals cast votes to select someone who will represent them in the decision making process - how a lot of parliaments work. In a direct democracy, individuals cast votes or some other means to directly indicate their preference from a selection of options put in front of them - there might even be options to not vote at all or indicate ranked preference. The option that gains a majority of votes is the one selected. 
-		* This can create a tyranny of the majority problem even though the minority might have valid objections. The ignored minority may also feel little to no ownership of the selected option and is therefore disinclined to implement it.
+		* ==This can create a tyranny of the majority problem even though the minority might have valid objections. The ignored minority may also feel little to no ownership of the selected option and is therefore disinclined to implement it.
 	* Consensus decision process - this seeks to resolve the inherent issues highlighted in the democratic approach  - this involves everyone in both stages of the decision process, both in the making of options and in the taking of decision of which option to select - this can level out power across everyone in the group and provide the possibility for everyone to be involved and listened to at both stages - this however can take forever to arrive at a conclusion, and there is significant danger that the conclusion reached will be a catalog of the lowest common denominator
-	* This also requires everyone to feel equally able to be involved and to share their viewpoints and opinions - often people who decide are unaware of who they are excluding - they commonly conclude those who don't participate don't have anything to contribute or will agree with the opinions of those who participate
+	* This also requires everyone to ==feel equally able to be involved and to share their viewpoints and opinions - often people who decide are unaware of who they are excluding - they commonly conclude those who don't participate don't have anything to contribute or will agree with the opinions of those who participate
 	* Avoidant approach - what happens if we don't do anything?
 * With standard processes, there's a tradeoff between response speed and centralization.
 * What makes a decision method fast to respond?
 	* In the consent decision process, a group rather than an individual has influence on decision making, which can play out in a number of ways.
 	* Consent decisions can be fast - when trust in the option maker and decision taker is high, consent from teams can sometimes be preassumed to be given in all circumstances - vetoes cause a slower process
 * Decentralization might not be a good thing in itself - but it can also bring more minds to bear on an increasing number of problems simultaneously
-* In The Age of Surveillance Capitalism, Zuboff discusses how while it's important to think about who is involved in the making and taking of decisions, it's equally important to think about who initiates the decision process and selects who is involved in it 
+* ==In The Age of Surveillance Capitalism, Zuboff discusses how while it's important to think about who is involved in the making and taking of decisions, it's equally important to think about who initiates the decision process and selects who is involved in it 
 	* Who decides? And Who decides who decides? 
 	* The key factor in a decision process's decentralization with regard to decision rights is the number of people who are de facto entitled to initiate and contribute to the taking of decisions
 	* The greater the number and deeper the involvement, the greater the decentralization
@@ -194,7 +194,8 @@ Chapter 5: Rolling Out the Architecture Advice Process
 		* In the advice process, teams are under no obligation to do their own deciding - they can rely entirely on those with existing architecture skills if that is their preference
 		* teams tapping architects for organizational literacy is a powerful move
 		* As decisions are being made and advice is sought, incrementally build up a checklist for your organization that shows who has expertise in which areas 
-		* When seeking advice, it can be easy to slip into only engaging those with whom you already have establisehd relationships
+		* When seeking advice, it can be easy to slip into only engaging those with whom you already have establisehd relationships - this poses problems when those individuals offering advice are used to a traditional, hierarchical power dynamic- they might be inclined to slip into command, direction, opinion - this isn't advice
+			* if anything other than advice is offered, you can deploy skills such as asking "Why?" to get to the advice beneath
 
 
 
