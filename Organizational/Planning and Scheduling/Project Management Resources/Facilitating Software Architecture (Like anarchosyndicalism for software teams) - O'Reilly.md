@@ -170,7 +170,7 @@ Chapter 5: Rolling Out the Architecture Advice Process
 	* A team can prepare a decision and take it to the responsible decision taker - you can prove or disprove that the responsible decision taker will be comfortable with the decision your team prepare for them to take
 	* Conversations are key, one can identify and seek advice from people one is obliged to - talk with those with architecture experience 
 	* If the decider disagrees with your selection, take the opportunity to discuss in more detail what led you to take a different direction  - maybe you misunderstood their advice or they didn't give you all the information you required - seek advice from the person who would both making the options and taking the decision in traditional architecture approaches - the most aligned architect
-		* Present the result you would have chosen if you were the decision maker and articulate results clearly - take your recommendation to the authorized decider and present it to them as if they were an ARB - take them through what led you to the need for the decision, options considered, pros and cons, and 
+		* Present the result you would have chosen if you were the decision maker and articulate results clearly - take your recommendation to the authorized decider and present it to them as if they were an ARB - take them through what led you to the need for the decision, options considered, pros and cons, and the advice and whom you sought it from
 
 
 
