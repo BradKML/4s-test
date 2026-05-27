@@ -215,6 +215,8 @@ Chapter 6. Architectural Decision Records
 * An essential add on to an advice process base model, supporting and enhancing all its key aspects
 * ADR help everyone make gbetter decisions, and advice seeking and sharing happen in the open - they also maintain an accessible history of all decisions for everyone, including supporting advice - helps build and maintain trust is a great resource for learning
 * ADRs are short documents (target length of about two pages worth of text, not counting diagrams or recorded advice - hence why many people refer to them as lightweight ADRs that tend to follow a typical format)
+* ADRs are immutable - written once, read many times, never updated once accepted - as soon as the decision of an ADR is decided, it doesn't change - though they can be superseded 
+* ADRs taken together as a group tell the essential story of a software system steps and missteps alike 
 
 
 
